@@ -17,10 +17,11 @@ In this section, you should include detailed installation notes containing code 
 ---
 
 ## Usage
-![ScreenShot]('data/ScreenShot.png')
+![ScreenShot](/data/ScreenShot.png)
+'''
 User need to provide the daily *rate-sheet* that consists of Lender qualifying criteria.
 Application requests user data and finds Lenders with matching criteria.
-Prompts user to save the qualifying Lender list.
+Prompts user to save the qualifying Lender list.'''
 
 ---
 
