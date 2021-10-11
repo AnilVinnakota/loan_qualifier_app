@@ -1,0 +1,811 @@
+   50  pip install ta
+   51  pip3 install ta
+   52  sudo pip3 install ta
+   53  ./algo.py
+   54  vim algo.py
+   55  ./algo.py
+   56  touch ~/log.txt
+   57  ./algo.py
+   58  ./algo.py
+   59  vim algo.py
+   60  ./algo.py
+   61  vim algo.py
+   62  ./algo.py
+   63  pwd
+   64  vim algo.py
+   65  ./algo.py
+   66  vim algo.py
+   67  ./algo.py
+   68  vim algo.py
+   69  ./algo.py
+   70  vim algo.py
+   71  vim algo.py
+   72  crontab -e
+   73  pwd
+   74  crontab -e
+   75  date
+   76  crontab -e
+   77  mail
+   78  cd
+   79  date
+   80  ls -lrt
+   81  tail log.txt
+   82  date
+   83  date
+   84  date
+   85  mail
+   86  vim alpaca
+   87  vim alpaca/algo.py
+   88  pwd
+   89  ./alpaca/algo.py
+   90  vim alpaca/algo.py
+   91  crontab -e
+   92  pwd
+   93  ls
+   94  cd alpaca
+   95  ls
+   96  ls -lrt
+   97  cat log.txt
+   98  mail
+   99  ps -ef | grep algo
+  100  pwd
+  101  ls
+  102  ./algo.py
+  103  cd alpaca
+  104  ./algo.py
+  105  vim algo.py
+  106  clear
+  107  pwd
+  108  clear
+  109  pwd
+  110  cd
+  111  clear
+  112  pwd
+  113  python3
+  114  python3 -m idlelib.idle
+  115  brew tap mongodb/brew\n
+  116  /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"\n
+  117  brew tap mongodb/brew\n
+  118  /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"\n
+  119  brew tap mongodb/brew\n
+  120  brew install mongodb-community@4.4\n
+  121    brew services start mongodb/brew/mongodb-community\n
+  122  brew --prefix\n
+  123  brew services list\n
+  124  mongo
+  125    brew services start mongodb/brew/mongodb-community\n
+  126  brew services restart mongodb/brew/mongodb-community\n
+  127  mongo
+  128  exit
+  129  env
+  130  cd
+  131  cd alpaca
+  132  ls
+  133  vim algo.py
+  134  pip install --user pipenv\n
+  135  pip3 install --user pipenv\n
+  136  vim algo.py
+  137  pip3 install pymongo
+  138  sudo pip3 install pymongo
+  139  git
+  140  git --v
+  141  git --version
+  142  sysctl -a | grep machdep.cpu.features
+  143  cd
+  144  clear
+  145  pwd
+  146  ls
+  147  mail
+  148  q
+  149  exit
+  150  /Applications/HP\ Smart.app/Contents/MacOS/HP\ Smart ; exit;
+  151  /Users/anil/opt/anaconda3/pkgs/conda-4.10.1-py38hecd8cb5_1/condabin/conda ; exit;
+  152  git
+  153  brew
+  154  ssh-keygen --h
+  155  cd .ssh
+  156  ls
+  157  ssh-keygen –t rsa –b 4096 
+  158  ssh-keygen –t rsa –b 4096
+  159  ssh-keygen –t rsa
+  160  ssh-keygen
+  161  eval "$(ssh-agent –s)"
+  162  ssh-agent
+  163  ssh-agent -s
+  164  ssh-add ~/.ssh/id_rsa
+  165  cat ~/.ssh/id_rsa.pub
+  166  ssh –T git@github.com
+  167  ssh –T git@github.com
+  168  ssh -T git@github.com
+  169  sysctl -a | grep machdep.cpu.features
+  170  val "$(ssh-agent –s)"
+  171  eval "$(ssh-agent –s)"
+  172  ssh-agent -s
+  173  conda --version
+  174  cd
+  175  conda --version
+  176  anaconda
+  177  which python
+  178  python -v
+  179  conda
+  180  conda --version
+  181  conda update conda
+  182  conda update anaconda
+  183  conda create -n dev python=3.7 anaconda
+  184  conda activate dev
+  185  conda deactivate
+  186  history
+  187  exit
+  188  conda
+  189  conda -v
+  190  conda activate dev
+  191  conda init zsh
+  192  echo #SHELL
+  193  echo $SHELL
+  194  python -m ipykernel install --user --name dev
+  195  conda install -c conda-forge nodejs
+  196  conda deactivate
+  197  open .
+  198  git clone
+  199  cd
+  200  mkdir repos
+  201  cd repos
+  202  mkdir and
+  203  cd and
+  204  git clone ssh://gi@github.com/AnilVinnakota/and.git
+  205  git clone ssh://git@github.com/AnilVinnakota/and.git
+  206  ls
+  207  cd and
+  208  ls
+  209  git status
+  210  git log
+  211  git branch
+  212  cd
+  213  conda activate dev
+  214  jupyter lab
+  215  npm -v
+  216  node -v
+  217  conda activate dev
+  218  jupyter lab
+  219  node -v
+  220  npm -v
+  221  node -v
+  222  npm -v
+  223  jupyter lab
+  224  conda deactivate
+  225  node -v
+  226  conda activate dev
+  227  node -v
+  228  conda deactivate
+  229  jupyter lab
+  230  /usr/bin/python3 /Users/anil/FinTechWorkspace/hello_python.py
+  231   /usr/bin/env /usr/bin/python3 /Users/anil/.vscode/extensions/ms-python.python-2021.9.1230869389/pythonFiles/lib/python/debugpy/launcher 62979 -- /Users/anil/fintech_workspace/python_project/hello_python.py 
+  232   /usr/bin/env /usr/bin/python3 /Users/anil/.vscode/extensions/ms-python.python-2021.9.1230869389/pythonFiles/lib/python/debugpy/launcher 63040 -- /Users/anil/bkft/Class_1_Activities/Temp/test.py 
+  233   cd /Users/anil/bkft/Class_1_Activities ; /usr/bin/env /usr/bin/python3 /Users/anil/.vscode/extensions/ms-python.python-2021.9.1230869389/pythonFiles/lib/python/debugpy/launcher 63362 -- /Users/anil/bkft/Class_1_Activities/02_Stu_Percent_Increase/Unsolved/percent_increase.py 
+  234   cd /Users/anil/bkft/Class_1_Activities ; /usr/bin/env /usr/bin/python3 /Users/anil/.vscode/extensions/ms-python.python-2021.9.1230869389/pythonFiles/lib/python/debugpy/launcher 63368 -- /Users/anil/bkft/Class_1_Activities/02_Stu_Percent_Increase/Unsolved/percent_increase.py 
+  235   cd /Users/anil/bkft/Class_1_Activities ; /usr/bin/env /usr/bin/python3 /Users/anil/.vscode/extensions/ms-python.python-2021.9.1230869389/pythonFiles/lib/python/debugpy/launcher 63375 -- /Users/anil/bkft/Class_1_Activities/02_Stu_Percent_Increase/Unsolved/percent_increase.py 
+  236   cd /Users/anil/bkft/Class_1_Activities ; /usr/bin/env /usr/bin/python3 /Users/anil/.vscode/extensions/ms-python.python-2021.9.1230869389/pythonFiles/lib/python/debugpy/launcher 63382 -- /Users/anil/bkft/Class_1_Activities/02_Stu_Percent_Increase/Unsolved/percent_increase.py 
+  237   cd /Users/anil/bkft/Class_1_Activities ; /usr/bin/env /usr/bin/python3 /Users/anil/.vscode/extensions/ms-python.python-2021.9.1230869389/pythonFiles/lib/python/debugpy/launcher 63390 -- /Users/anil/bkft/Class_1_Activities/02_Stu_Percent_Increase/Unsolved/percent_increase.py 
+  238   cd /Users/anil/bkft/Class_1_Activities ; /usr/bin/env /usr/bin/python3 /Users/anil/.vscode/extensions/ms-python.python-2021.9.1230869389/pythonFiles/lib/python/debugpy/launcher 63395 -- /Users/anil/bkft/Class_1_Activities/02_Stu_Percent_Increase/Unsolved/percent_increase.py 
+  239   cd /Users/anil/bkft/Class_1_Activities ; /usr/bin/env /usr/bin/python3 /Users/anil/.vscode/extensions/ms-python.python-2021.9.1230869389/pythonFiles/lib/python/debugpy/launcher 63418 -- /Users/anil/bkft/Class_1_Activities/03_Ins_Lists/Unsolved/lists.py 
+  240  conda activate dev
+  241   cd /Users/anil/bkft/Class_1_Activities ; /usr/bin/env /usr/bin/python3 /Users/anil/.vscode/extensions/ms-python.python-2021.9.1230869389/pythonFiles/lib/python/debugpy/launcher 63426 -- /Users/anil/bkft/Class_1_Activities/03_Ins_Lists/Unsolved/lists.py 
+  242   cd /Users/anil/bkft/Class_1_Activities ; /usr/bin/env /usr/bin/python3 /Users/anil/.vscode/extensions/ms-python.python-2021.9.1230869389/pythonFiles/lib/python/debugpy/launcher 63431 -- /Users/anil/bkft/Class_1_Activities/03_Ins_Lists/Unsolved/lists.py 
+  243   cd /Users/anil/bkft/Class_1_Activities ; /usr/bin/env /usr/bin/python3 /Users/anil/.vscode/extensions/ms-python.python-2021.9.1230869389/pythonFiles/lib/python/debugpy/launcher 63441 -- /Users/anil/bkft/Class_1_Activities/03_Ins_Lists/Unsolved/lists.py 
+  244   /usr/bin/env /usr/bin/python3 /Users/anil/.vscode/extensions/ms-python.python-2021.9.1230869389/pythonFiles/lib/python/debugpy/launcher 63495 -- /Users/anil/Downloads/Class_1_Activities/01_Ins_Variables/02_Listing_Assets/Unsolved/listing_assets.py 
+  245   /usr/bin/env /usr/bin/python3 /Users/anil/.vscode/extensions/ms-python.python-2021.9.1246542782/pythonFiles/lib/python/debugpy/launcher 63560 -- /Users/anil/bkft/Class_1_Activities/03_The_401k_Shuffle/Unsolved/the_401k_shuffle.py 
+  246   cd /Users/anil/bkft/Class_1_Activities ; /usr/bin/env /usr/bin/python3 /Users/anil/.vscode/extensions/ms-python.python-2021.9.1246542782/pythonFiles/lib/python/debugpy/launcher 63569 -- /Users/anil/bkft/Class_1_Activities/03_The_401k_Shuffle/Unsolved/the_401k_shuffle.py 
+  247   cd /Users/anil/bkft/Class_1_Activities ; /usr/bin/env /usr/bin/python3 /Users/anil/.vscode/extensions/ms-python.python-2021.9.1246542782/pythonFiles/lib/python/debugpy/launcher 63578 -- /Users/anil/bkft/Class_1_Activities/03_The_401k_Shuffle/Unsolved/the_401k_shuffle.py 
+  248   cd /Users/anil/bkft/Class_1_Activities ; /usr/bin/env /usr/bin/python3 /Users/anil/.vscode/extensions/ms-python.python-2021.9.1246542782/pythonFiles/lib/python/debugpy/launcher 63584 -- /Users/anil/bkft/Class_1_Activities/03_The_401k_Shuffle/Unsolved/the_401k_shuffle.py 
+  249  print (accounts)
+  250  pythoncd /Users/anil/bkft/Class_1_Activities ; /usr/bin/env /usr/bin/python3 /Users/anil/.vscode/extensions/ms-python.python-2021.9.1246542782/pythonFiles/lib/python/debugpy/launcher 63604 -- /Users/anil/bkft/Class_1_Activities/03_The_401k_Shuffle/Unsolved/the_401k_shuffle.py 
+  251   cd /Users/anil/bkft/Class_1_Activities ; /usr/bin/env /usr/bin/python3 /Users/anil/.vscode/extensions/ms-python.python-2021.9.1246542782/pythonFiles/lib/python/debugpy/launcher 63646 -- /Users/anil/bkft/Class_1_Activities/01_Conditional_Statement/Unsolved/conditional_statement.py 
+  252   cd /Users/anil/bkft/Class_1_Activities ; /usr/bin/env /usr/bin/python3 /Users/anil/.vscode/extensions/ms-python.python-2021.9.1246542782/pythonFiles/lib/python/debugpy/launcher 63675 -- /Users/anil/bkft/Class_1_Activities/02_Nested_Conditionals/Unsolved/nested_conditionals.py 
+  253   cd /Users/anil/bkft/Class_1_Activities ; /usr/bin/env /usr/bin/python3 /Users/anil/.vscode/extensions/ms-python.python-2021.9.1246542782/pythonFiles/lib/python/debugpy/launcher 63691 -- /Users/anil/bkft/Class_1_Activities/02_Nested_Conditionals/Unsolved/nested_conditionals.py 
+  254   cd /Users/anil/bkft/Class_1_Activities ; /usr/bin/env /usr/bin/python3 /Users/anil/.vscode/extensions/ms-python.python-2021.9.1246542782/pythonFiles/lib/python/debugpy/launcher 63697 -- /Users/anil/bkft/Class_1_Activities/02_Nested_Conditionals/Unsolved/nested_conditionals.py 
+  255   cd /Users/anil/bkft/Class_1_Activities ; /usr/bin/env /usr/bin/python3 /Users/anil/.vscode/extensions/ms-python.python-2021.9.1246542782/pythonFiles/lib/python/debugpy/launcher 63733 -- /Users/anil/bkft/Class_1_Activities/02_Nested_Conditionals/Unsolved/nested_conditionals.py 
+  256   cd /Users/anil/bkft/Class_1_Activities ; /usr/bin/env /usr/bin/python3 /Users/anil/.vscode/extensions/ms-python.python-2021.9.1246542782/pythonFiles/lib/python/debugpy/launcher 63741 -- /Users/anil/bkft/Class_1_Activities/02_Nested_Conditionals/Unsolved/nested_conditionals.py 
+  257   cd /Users/anil/bkft/Class_1_Activities ; /usr/bin/env /usr/bin/python3 /Users/anil/.vscode/extensions/ms-python.python-2021.9.1246542782/pythonFiles/lib/python/debugpy/launcher 63749 -- /Users/anil/bkft/Class_1_Activities/02_Nested_Conditionals/Unsolved/nested_conditionals.py 
+  258   cd /Users/anil/bkft/Class_1_Activities ; /usr/bin/env /usr/bin/python3 /Users/anil/.vscode/extensions/ms-python.python-2021.9.1246542782/pythonFiles/lib/python/debugpy/launcher 63758 -- /Users/anil/bkft/Class_1_Activities/02_Nested_Conditionals/Unsolved/nested_conditionals.py 
+  259   cd /Users/anil/bkft/Class_1_Activities ; /usr/bin/env /usr/bin/python3 /Users/anil/.vscode/extensions/ms-python.python-2021.9.1246542782/pythonFiles/lib/python/debugpy/launcher 63768 -- /Users/anil/bkft/Class_1_Activities/02_Nested_Conditionals/Unsolved/nested_conditionals.py 
+  260   cd /Users/anil/bkft/Class_1_Activities ; /usr/bin/env /usr/bin/python3 /Users/anil/.vscode/extensions/ms-python.python-2021.9.1246542782/pythonFiles/lib/python/debugpy/launcher 63798 -- /Users/anil/bkft/Class_1_Activities/03_Split_Second_Homebuying/Unsolved/split_second_homebuying.py 
+  261   cd /Users/anil/bkft/Class_1_Activities ; /usr/bin/env /usr/bin/python3 /Users/anil/.vscode/extensions/ms-python.python-2021.9.1246542782/pythonFiles/lib/python/debugpy/launcher 63809 -- /Users/anil/bkft/Class_1_Activities/03_Split_Second_Homebuying/Unsolved/split_second_homebuying.py 
+  262   cd /Users/anil/bkft/Class_1_Activities ; /usr/bin/env /usr/bin/python3 /Users/anil/.vscode/extensions/ms-python.python-2021.9.1246542782/pythonFiles/lib/python/debugpy/launcher 63819 -- /Users/anil/bkft/Class_1_Activities/03_Split_Second_Homebuying/Unsolved/split_second_homebuying.py 
+  263   cd /Users/anil/bkft/Class_1_Activities ; /usr/bin/env /usr/bin/python3 /Users/anil/.vscode/extensions/ms-python.python-2021.9.1246542782/pythonFiles/lib/python/debugpy/launcher 63828 -- /Users/anil/bkft/Class_1_Activities/03_Split_Second_Homebuying/Unsolved/split_second_homebuying.py 
+  264   cd /Users/anil/bkft/Class_1_Activities ; /usr/bin/env /usr/bin/python3 /Users/anil/.vscode/extensions/ms-python.python-2021.9.1246542782/pythonFiles/lib/python/debugpy/launcher 63859 -- /Users/anil/bkft/Class_1_Activities/01_A_Definitive_Buy/Unsolved/a_definitive_buy.py 
+  265   cd /Users/anil/bkft/Class_1_Activities ; /usr/bin/env /usr/bin/python3 /Users/anil/.vscode/extensions/ms-python.python-2021.9.1246542782/pythonFiles/lib/python/debugpy/launcher 63864 -- /Users/anil/bkft/Class_1_Activities/01_A_Definitive_Buy/Unsolved/a_definitive_buy.py 
+  266   cd /Users/anil/bkft/Class_1_Activities ; /usr/bin/env /usr/bin/python3 /Users/anil/.vscode/extensions/ms-python.python-2021.9.1246542782/pythonFiles/lib/python/debugpy/launcher 63914 -- /Users/anil/bkft/Class_1_Activities/02_Returned_Goods/Unsolved/returned_goods.py 
+  267   cd /Users/anil/bkft/Class_1_Activities ; /usr/bin/env /usr/bin/python3 /Users/anil/.vscode/extensions/ms-python.python-2021.9.1246542782/pythonFiles/lib/python/debugpy/launcher 63926 -- /Users/anil/bkft/Class_1_Activities/02_Returned_Goods/Unsolved/returned_goods.py 
+  268   cd /Users/anil/bkft/Class_1_Activities ; /usr/bin/env /usr/bin/python3 /Users/anil/.vscode/extensions/ms-python.python-2021.9.1246542782/pythonFiles/lib/python/debugpy/launcher 63934 -- /Users/anil/bkft/Class_1_Activities/02_Returned_Goods/Unsolved/returned_goods.py 
+  269  clear
+  270   cd /Users/anil/bkft/Class_1_Activities ; /usr/bin/env /usr/bin/python3 /Users/anil/.vscode/extensions/ms-python.python-2021.9.1246542782/pythonFiles/lib/python/debugpy/launcher 63942 -- /Users/anil/bkft/Class_1_Activities/02_Returned_Goods/Unsolved/returned_goods.py 
+  271   cd /Users/anil/bkft/Class_1_Activities ; /usr/bin/env /usr/bin/python3 /Users/anil/.vscode/extensions/ms-python.python-2021.9.1246542782/pythonFiles/lib/python/debugpy/launcher 63968 -- /Users/anil/bkft/Class_1_Activities/03_Split_Second_Homebuying_Part_2/Unsolved/split_second_part_2.py 
+  272   cd /Users/anil/bkft/Class_1_Activities ; /usr/bin/env /usr/bin/python3 /Users/anil/.vscode/extensions/ms-python.python-2021.9.1246542782/pythonFiles/lib/python/debugpy/launcher 63978 -- /Users/anil/bkft/Class_1_Activities/03_Split_Second_Homebuying_Part_2/Unsolved/split_second_part_2.py 
+  273  clear
+  274   cd /Users/anil/bkft/Class_1_Activities ; /usr/bin/env /usr/bin/python3 /Users/anil/.vscode/extensions/ms-python.python-2021.9.1246542782/pythonFiles/lib/python/debugpy/launcher 63986 -- /Users/anil/bkft/Class_1_Activities/03_Split_Second_Homebuying_Part_2/Unsolved/split_second_part_2.py 
+  275   cd /Users/anil/bkft/Class_1_Activities ; /usr/bin/env /usr/bin/python3 /Users/anil/.vscode/extensions/ms-python.python-2021.9.1246542782/pythonFiles/lib/python/debugpy/launcher 63994 -- /Users/anil/bkft/Class_1_Activities/03_Split_Second_Homebuying_Part_2/Unsolved/split_second_part_2.py 
+  276   cd /Users/anil/bkft/Class_1_Activities ; /usr/bin/env /usr/bin/python3 /Users/anil/.vscode/extensions/ms-python.python-2021.9.1246542782/pythonFiles/lib/python/debugpy/launcher 64006 -- /Users/anil/bkft/Class_1_Activities/03_Split_Second_Homebuying_Part_2/Unsolved/split_second_part_2.py 
+  277   cd /Users/anil/bkft/Class_1_Activities ; /usr/bin/env /usr/bin/python3 /Users/anil/.vscode/extensions/ms-python.python-2021.9.1246542782/pythonFiles/lib/python/debugpy/launcher 64016 -- /Users/anil/bkft/Class_1_Activities/03_Split_Second_Homebuying_Part_2/Unsolved/split_second_part_2.py 
+  278   cd /Users/anil/bkft/Class_1_Activities ; /usr/bin/env /usr/bin/python3 /Users/anil/.vscode/extensions/ms-python.python-2021.9.1246542782/pythonFiles/lib/python/debugpy/launcher 64050 -- /Users/anil/bkft/Class_1_Activities/01_Racking_Up_The_Profit/Unsolved/racking_up_the_profit.py 
+  279   cd /Users/anil/bkft/Class_1_Activities ; /usr/bin/env /usr/bin/python3 /Users/anil/.vscode/extensions/ms-python.python-2021.9.1246542782/pythonFiles/lib/python/debugpy/launcher 64086 -- /Users/anil/bkft/Class_1_Activities/02_Pathways_to_Success_Part_1/Unsolved/pathways_to_success.py 
+  280   cd /Users/anil/bkft/Class_1_Activities ; /usr/bin/env /usr/bin/python3 /Users/anil/.vscode/extensions/ms-python.python-2021.9.1246542782/pythonFiles/lib/python/debugpy/launcher 64096 -- /Users/anil/bkft/Class_1_Activities/02_Pathways_to_Success_Part_1/Unsolved/pathways_to_success.py 
+  281   cd /Users/anil/bkft/Class_1_Activities ; /usr/bin/env /usr/bin/python3 /Users/anil/.vscode/extensions/ms-python.python-2021.9.1246542782/pythonFiles/lib/python/debugpy/launcher 64103 -- /Users/anil/bkft/Class_1_Activities/02_Pathways_to_Success_Part_1/Unsolved/pathways_to_success.py 
+  282   cd /Users/anil/bkft/Class_1_Activities ; /usr/bin/env /usr/bin/python3 /Users/anil/.vscode/extensions/ms-python.python-2021.9.1246542782/pythonFiles/lib/python/debugpy/launcher 64109 -- /Users/anil/bkft/Class_1_Activities/02_Pathways_to_Success_Part_1/Unsolved/pathways_to_success.py 
+  283   cd /Users/anil/bkft/Class_1_Activities ; /usr/bin/env /usr/bin/python3 /Users/anil/.vscode/extensions/ms-python.python-2021.9.1246542782/pythonFiles/lib/python/debugpy/launcher 64126 -- /Users/anil/bkft/Class_1_Activities/02_Pathways_to_Success_Part_1/Unsolved/pathways_to_success.py 
+  284   cd /Users/anil/bkft/Class_1_Activities ; /usr/bin/env /usr/bin/python3 /Users/anil/.vscode/extensions/ms-python.python-2021.9.1246542782/pythonFiles/lib/python/debugpy/launcher 64134 -- /Users/anil/bkft/Class_1_Activities/02_Pathways_to_Success_Part_1/Unsolved/pathways_to_success.py 
+  285  clea
+  286  clear
+  287   cd /Users/anil/bkft/Class_1_Activities ; /usr/bin/env /usr/bin/python3 /Users/anil/.vscode/extensions/ms-python.python-2021.9.1246542782/pythonFiles/lib/python/debugpy/launcher 64143 -- /Users/anil/bkft/Class_1_Activities/02_Pathways_to_Success_Part_1/Unsolved/pathways_to_success.py 
+  288  clear
+  289   cd /Users/anil/bkft/Class_1_Activities ; /usr/bin/env /usr/bin/python3 /Users/anil/.vscode/extensions/ms-python.python-2021.9.1246542782/pythonFiles/lib/python/debugpy/launcher 64153 -- /Users/anil/bkft/Class_1_Activities/02_Pathways_to_Success_Part_1/Unsolved/pathways_to_success.py 
+  290   cd /Users/anil/bkft/Class_1_Activities ; /usr/bin/env /usr/bin/python3 /Users/anil/.vscode/extensions/ms-python.python-2021.9.1246542782/pythonFiles/lib/python/debugpy/launcher 64162 -- /Users/anil/bkft/Class_1_Activities/02_Pathways_to_Success_Part_1/Unsolved/pathways_to_success.py 
+  291   cd /Users/anil/bkft/Class_1_Activities ; /usr/bin/env /usr/bin/python3 /Users/anil/.vscode/extensions/ms-python.python-2021.9.1246542782/pythonFiles/lib/python/debugpy/launcher 64179 -- /Users/anil/bkft/Class_1_Activities/03_Pathways_to_Success_Part_2/Unsolved/pathways_to_success_part_2.py 
+  292  clear
+  293   cd /Users/anil/bkft/Class_1_Activities ; /usr/bin/env /usr/bin/python3 /Users/anil/.vscode/extensions/ms-python.python-2021.9.1246542782/pythonFiles/lib/python/debugpy/launcher 64185 -- /Users/anil/bkft/Class_1_Activities/03_Pathways_to_Success_Part_2/Unsolved/pathways_to_success_part_2.py 
+  294   cd /Users/anil/bkft/Class_1_Activities ; /usr/bin/env /usr/bin/python3 /Users/anil/.vscode/extensions/ms-python.python-2021.9.1246542782/pythonFiles/lib/python/debugpy/launcher 64196 -- /Users/anil/bkft/Class_1_Activities/03_Pathways_to_Success_Part_2/Unsolved/pathways_to_success_part_2.py 
+  295  pwd
+  296  ls
+  297  cd 03_Pathways_to_Success_Part_2
+  298   cd /Users/anil/bkft/Class_1_Activities ; /usr/bin/env /usr/bin/python3 /Users/anil/.vscode/extensions/ms-python.python-2021.9.1246542782/pythonFiles/lib/python/debugpy/launcher 64208 -- /Users/anil/bkft/Class_1_Activities/03_Pathways_to_Success_Part_2/Unsolved/pathways_to_success_part_2.py 
+  299  clear
+  300  cd ..
+  301  pwd
+  302  clear
+  303   cd /Users/anil/bkft/Class_1_Activities ; /usr/bin/env /usr/bin/python3 /Users/anil/.vscode/extensions/ms-python.python-2021.9.1246542782/pythonFiles/lib/python/debugpy/launcher 64223 -- /Users/anil/bkft/Class_1_Activities/03_Pathways_to_Success_Part_2/Unsolved/pathways_to_success_part_2.py 
+  304   cd /Users/anil/bkft/Class_1_Activities ; /usr/bin/env /usr/bin/python3 /Users/anil/.vscode/extensions/ms-python.python-2021.9.1246542782/pythonFiles/lib/python/debugpy/launcher 64239 -- /Users/anil/bkft/Class_1_Activities/03_Pathways_to_Success_Part_2/Unsolved/pathways_to_success_part_2.py 
+  305   cd /Users/anil/bkft/Class_1_Activities ; /usr/bin/env /usr/bin/python3 /Users/anil/.vscode/extensions/ms-python.python-2021.9.1246542782/pythonFiles/lib/python/debugpy/launcher 64246 -- /Users/anil/bkft/Class_1_Activities/03_Pathways_to_Success_Part_2/Unsolved/pathways_to_success_part_2.py 
+  306  clear
+  307   cd /Users/anil/bkft/Class_1_Activities ; /usr/bin/env /usr/bin/python3 /Users/anil/.vscode/extensions/ms-python.python-2021.9.1246542782/pythonFiles/lib/python/debugpy/launcher 64252 -- /Users/anil/bkft/Class_1_Activities/03_Pathways_to_Success_Part_2/Unsolved/pathways_to_success_part_2.py 
+  308   cd /Users/anil/bkft/Class_1_Activities ; /usr/bin/env /usr/bin/python3 /Users/anil/.vscode/extensions/ms-python.python-2021.9.1246542782/pythonFiles/lib/python/debugpy/launcher 64289 -- /Users/anil/bkft/Class_1_Activities/04_Automating_Equity_Rounds/Unsolved/automated_equity_rounds.py 
+  309   cd /Users/anil/bkft/Class_1_Activities ; /usr/bin/env /usr/bin/python3 /Users/anil/.vscode/extensions/ms-python.python-2021.9.1246542782/pythonFiles/lib/python/debugpy/launcher 64295 -- /Users/anil/bkft/Class_1_Activities/04_Automating_Equity_Rounds/Unsolved/automated_equity_rounds.py 
+  310   cd /Users/anil/bkft/Class_1_Activities ; /usr/bin/env /usr/bin/python3 /Users/anil/.vscode/extensions/ms-python.python-2021.9.1246542782/pythonFiles/lib/python/debugpy/launcher 64303 -- /Users/anil/bkft/Class_1_Activities/04_Automating_Equity_Rounds/Unsolved/automated_equity_rounds.py 
+  311   cd /Users/anil/bkft/Class_1_Activities ; /usr/bin/env /usr/bin/python3 /Users/anil/.vscode/extensions/ms-python.python-2021.9.1246542782/pythonFiles/lib/python/debugpy/launcher 64316 -- /Users/anil/bkft/Class_1_Activities/04_Automating_Equity_Rounds/Unsolved/automated_equity_rounds.py 
+  312   cd /Users/anil/bkft/Class_1_Activities ; /usr/bin/env /usr/bin/python3 /Users/anil/.vscode/extensions/ms-python.python-2021.9.1246542782/pythonFiles/lib/python/debugpy/launcher 64323 -- /Users/anil/bkft/Class_1_Activities/04_Automating_Equity_Rounds/Unsolved/automated_equity_rounds.py 
+  313   cd /Users/anil/bkft/Class_1_Activities ; /usr/bin/env /usr/bin/python3 /Users/anil/.vscode/extensions/ms-python.python-2021.9.1246542782/pythonFiles/lib/python/debugpy/launcher 64329 -- /Users/anil/bkft/Class_1_Activities/04_Automating_Equity_Rounds/Unsolved/automated_equity_rounds.py 
+  314  clear
+  315   cd /Users/anil/bkft/Class_1_Activities ; /usr/bin/env /usr/bin/python3 /Users/anil/.vscode/extensions/ms-python.python-2021.9.1246542782/pythonFiles/lib/python/debugpy/launcher 64337 -- /Users/anil/bkft/Class_1_Activities/04_Automating_Equity_Rounds/Unsolved/automated_equity_rounds.py 
+  316   cd /Users/anil/bkft/Class_1_Activities ; /usr/bin/env /usr/bin/python3 /Users/anil/.vscode/extensions/ms-python.python-2021.9.1246542782/pythonFiles/lib/python/debugpy/launcher 64346 -- /Users/anil/bkft/Class_1_Activities/04_Automating_Equity_Rounds/Unsolved/automated_equity_rounds.py 
+  317   cd /Users/anil/bkft/Class_1_Activities ; /usr/bin/env /usr/bin/python3 /Users/anil/.vscode/extensions/ms-python.python-2021.9.1246542782/pythonFiles/lib/python/debugpy/launcher 64408 -- /Users/anil/bkft/Class_1_Activities/GitHub_Upload/loan_analyzer.py 
+  318  pwd
+  319  ls -lrt
+  320  cd GitHub_Upload
+  321  pwd
+  322  ls -lrt
+  323  git clone https://github.com/AnilVinnakota/bk_fintech.git
+  324  ls
+  325  cp loan_analyzer.py bk_fintech/GitHub_Upload
+  326  pwd
+  327  ls
+  328  cd bk_fintech/GitHub_Upload
+  329  pwd
+  330  ls -lrt
+  331  git status
+  332  git diff
+  333  git status
+  334  git add .
+  335  git commit -m "Part 1"
+  336  git push
+  337  cd ../../
+  338  pwd
+  339  cd ../
+  340  historty
+  341  history
+  342  git clone ssh://git@github.com/AnilVinnakota/bk_fintech.git
+  343  cp GitHub_Upload/bk_fintech/GitHub_Upload
+  344  cp GitHub_Upload/loan_analyzer.py bk_fintech/GitHub_Upload
+  345  pwd
+  346  cd bk_fintech
+  347  ls
+  348  cd GitHub_Upload
+  349  ls
+  350  cd loan_analyzer.py
+  351  ls
+  352  git status
+  353  git diff
+  354  git add .
+  355  git commit -m "Part 1"
+  356  git push
+  357   cd /Users/anil/bkft/Class_1_Activities ; /usr/bin/env /usr/bin/python3 /Users/anil/.vscode/extensions/ms-python.python-2021.9.1246542782/pythonFiles/lib/python/debugpy/launcher 50705 -- /Users/anil/bkft/Class_1_Activities/GitHub_Upload/loan_analyzer.py 
+  358   cd /Users/anil/bkft/Class_1_Activities ; /usr/bin/env /usr/bin/python3 /Users/anil/.vscode/extensions/ms-python.python-2021.9.1246542782/pythonFiles/lib/python/debugpy/launcher 50714 -- /Users/anil/bkft/Class_1_Activities/GitHub_Upload/loan_analyzer.py 
+  359   cd /Users/anil/bkft/Class_1_Activities ; /usr/bin/env /usr/bin/python3 /Users/anil/.vscode/extensions/ms-python.python-2021.9.1246542782/pythonFiles/lib/python/debugpy/launcher 50726 -- /Users/anil/bkft/Class_1_Activities/GitHub_Upload/loan_analyzer.py 
+  360   cd /Users/anil/bkft/Class_1_Activities ; /usr/bin/env /usr/bin/python3 /Users/anil/.vscode/extensions/ms-python.python-2021.9.1246542782/pythonFiles/lib/python/debugpy/launcher 50734 -- /Users/anil/bkft/Class_1_Activities/GitHub_Upload/loan_analyzer.py 
+  361   cd /Users/anil/bkft/Class_1_Activities ; /usr/bin/env /usr/bin/python3 /Users/anil/.vscode/extensions/ms-python.python-2021.9.1246542782/pythonFiles/lib/python/debugpy/launcher 50758 -- /Users/anil/bkft/Class_1_Activities/GitHub_Upload/loan_analyzer.py 
+  362   cd /Users/anil/bkft/Class_1_Activities ; /usr/bin/env /usr/bin/python3 /Users/anil/.vscode/extensions/ms-python.python-2021.9.1246542782/pythonFiles/lib/python/debugpy/launcher 50767 -- /Users/anil/bkft/Class_1_Activities/GitHub_Upload/loan_analyzer.py 
+  363   cd /Users/anil/bkft/Class_1_Activities ; /usr/bin/env /usr/bin/python3 /Users/anil/.vscode/extensions/ms-python.python-2021.9.1246542782/pythonFiles/lib/python/debugpy/launcher 50778 -- /Users/anil/bkft/Class_1_Activities/GitHub_Upload/loan_analyzer.py 
+  364  cd /Users/anil/bkft/Class_1_Activities ; /usr/bin/env /usr/bin/python3 /Users/anil/.vscode/extensions/ms-python.python-2021.9.1246542782/pythonFiles/lib/python/debugpy/launcher 50790 -- /Users/anil/bkft/Class_1_Activities/GitHub_Upload/loan_analyzer.py 
+  365   cd /Users/anil/bkft/Class_1_Activities ; /usr/bin/env /usr/bin/python3 /Users/anil/.vscode/extensions/ms-python.python-2021.9.1246542782/pythonFiles/lib/python/debugpy/launcher 50835 -- /Users/anil/bkft/Class_1_Activities/GitHub_Upload/loan_analyzer.py 
+  366   cd /Users/anil/bkft/Class_1_Activities ; /usr/bin/env /usr/bin/python3 /Users/anil/.vscode/extensions/ms-python.python-2021.9.1246542782/pythonFiles/lib/python/debugpy/launcher 50851 -- /Users/anil/bkft/Class_1_Activities/GitHub_Upload/loan_analyzer.py 
+  367   cd /Users/anil/bkft/Class_1_Activities ; /usr/bin/env /usr/bin/python3 /Users/anil/.vscode/extensions/ms-python.python-2021.9.1246542782/pythonFiles/lib/python/debugpy/launcher 50896 -- /Users/anil/bkft/Class_1_Activities/GitHub_Upload/loan_analyzer.py 
+  368   cd /Users/anil/bkft/Class_1_Activities ; /usr/bin/env /usr/bin/python3 /Users/anil/.vscode/extensions/ms-python.python-2021.9.1246542782/pythonFiles/lib/python/debugpy/launcher 50908 -- /Users/anil/bkft/Class_1_Activities/GitHub_Upload/loan_analyzer.py 
+  369  pwd
+  370  ls
+  371  cd GitHub_Upload
+  372  ls
+  373  cd loan_analyzer.py
+  374  git branch
+  375  git status
+  376  cp loan_analyzer.py bk_fintech/GitHub_Upload
+  377  cd bk_fintech
+  378  git status
+  379  git diff
+  380  git status
+  381  git add .
+  382  git commit -m "Remaining Parts"
+  383  git push
+  384  git pull
+  385  git status
+  386  git diff
+  387  vim GitHub_Upload/loan_analyzer.py
+  388  pwd
+  389  git status
+  390  git diff
+  391  git status
+  392  git diff
+  393  git diff --staged
+  394  git add
+  395  git add .
+  396  git status
+  397  git commit 
+  398  git status
+  399  git push
+  400  git status
+  401  git diff
+  402   cd /Users/anil/bkft/Class_1_Activities ; /usr/bin/env /usr/bin/python3 /Users/anil/.vscode/extensions/ms-python.python-2021.9.1246542782/pythonFiles/lib/python/debugpy/launcher 50968 -- /Users/anil/bkft/Class_1_Activities/GitHub_Upload/bk_fintech/GitHub_Upload/loan_analyzer.py 
+  403  pwd
+  404  ls
+  405  cd bk_fintech
+  406  ls
+  407  cd GitHub_Upload
+  408  ls
+  409  git status
+  410  git log
+  411  git status
+  412  pwd
+  413  cd ../..
+  414  pwd
+  415  clear
+  416  pwd
+  417  ls
+  418   cd /Users/anil/bkft/Class_1_Activities ; /usr/bin/env /usr/bin/python3 /Users/anil/.vscode/extensions/ms-python.python-2021.9.1246542782/pythonFiles/lib/python/debugpy/launcher 50993 -- /Users/anil/bkft/Class_1_Activities/bk_fintech/GitHub_Upload/loan_analyzer.py 
+  419   cd /Users/anil/bkft/Class_1_Activities ; /usr/bin/env /usr/bin/python3 /Users/anil/.vscode/extensions/ms-python.python-2021.9.1246542782/pythonFiles/lib/python/debugpy/launcher 51502 -- /Users/anil/bkft/Class_1_Activities/03_The_401k_Shuffle/Unsolved/the_401k_shuffle.py 
+  420   cd /Users/anil/bkft/Class_1_Activities ; /usr/bin/env /usr/bin/python3 /Users/anil/.vscode/extensions/ms-python.python-2021.9.1246542782/pythonFiles/lib/python/debugpy/launcher 51515 -- /Users/anil/bkft/Class_1_Activities/03_The_401k_Shuffle/Unsolved/the_401k_shuffle.py 
+  421   cd /Users/anil/bkft/Class_1_Activities ; /usr/bin/env /usr/bin/python3 /Users/anil/.vscode/extensions/ms-python.python-2021.9.1246542782/pythonFiles/lib/python/debugpy/launcher 51531 -- /Users/anil/bkft/Class_1_Activities/03_The_401k_Shuffle/Unsolved/the_401k_shuffle.py 
+  422   cd /Users/anil/bkft/Class_1_Activities ; /usr/bin/env /usr/bin/python3 /Users/anil/.vscode/extensions/ms-python.python-2021.9.1246542782/pythonFiles/lib/python/debugpy/launcher 51549 -- /Users/anil/bkft/Class_1_Activities/03_The_401k_Shuffle/Unsolved/the_401k_shuffle.py 
+  423   cd /Users/anil/bkft/Class_1_Activities ; /usr/bin/env /usr/bin/python3 /Users/anil/.vscode/extensions/ms-python.python-2021.9.1246542782/pythonFiles/lib/python/debugpy/launcher 51567 -- /Users/anil/bkft/Class_1_Activities/03_The_401k_Shuffle/Unsolved/the_401k_shuffle.py 
+  424   cd /Users/anil/bkft/Class_1_Activities ; /usr/bin/env /usr/bin/python3 /Users/anil/.vscode/extensions/ms-python.python-2021.9.1246542782/pythonFiles/lib/python/debugpy/launcher 51597 -- /Users/anil/bkft/Class_1_Activities/03_The_401k_Shuffle/Unsolved/the_401k_shuffle.py 
+  425   cd /Users/anil/bkft/Class_1_Activities ; /usr/bin/env /usr/bin/python3 /Users/anil/.vscode/extensions/ms-python.python-2021.9.1246542782/pythonFiles/lib/python/debugpy/launcher 51605 -- /Users/anil/bkft/Class_1_Activities/03_The_401k_Shuffle/Unsolved/the_401k_shuffle.py 
+  426  pip3 install babel
+  427  sudo pip3 install babel
+  428   cd /Users/anil/bkft/Class_1_Activities ; /usr/bin/env /usr/bin/python3 /Users/anil/.vscode/extensions/ms-python.python-2021.9.1246542782/pythonFiles/lib/python/debugpy/launcher 51690 -- /Users/anil/bkft/Class_1_Activities/03_The_401k_Shuffle/Unsolved/the_401k_shuffle.py 
+  429   cd /Users/anil/bkft/Class_1_Activities ; /usr/bin/env /usr/bin/python3 /Users/anil/.vscode/extensions/ms-python.python-2021.9.1246542782/pythonFiles/lib/python/debugpy/launcher 51700 -- /Users/anil/bkft/Class_1_Activities/03_The_401k_Shuffle/Unsolved/the_401k_shuffle.py 
+  430   cd /Users/anil/bkft/Class_1_Activities ; /usr/bin/env /usr/bin/python3 /Users/anil/.vscode/extensions/ms-python.python-2021.9.1246542782/pythonFiles/lib/python/debugpy/launcher 51709 -- /Users/anil/bkft/Class_1_Activities/03_The_401k_Shuffle/Unsolved/the_401k_shuffle.py 
+  431   cd /Users/anil/bkft/Class_1_Activities ; /usr/bin/env /usr/bin/python3 /Users/anil/.vscode/extensions/ms-python.python-2021.9.1246542782/pythonFiles/lib/python/debugpy/launcher 51729 -- /Users/anil/bkft/Class_1_Activities/03_The_401k_Shuffle/Unsolved/the_401k_shuffle.py 
+  432   cd /Users/anil/bkft/Class_1_Activities ; /usr/bin/env /usr/bin/python3 /Users/anil/.vscode/extensions/ms-python.python-2021.9.1246542782/pythonFiles/lib/python/debugpy/launcher 51739 -- /Users/anil/bkft/Class_1_Activities/03_The_401k_Shuffle/Unsolved/the_401k_shuffle.py 
+  433   cd /Users/anil/bkft/Class_1_Activities ; /usr/bin/env /usr/bin/python3 /Users/anil/.vscode/extensions/ms-python.python-2021.9.1246542782/pythonFiles/lib/python/debugpy/launcher 51769 -- /Users/anil/bkft/Class_1_Activities/03_The_401k_Shuffle/Unsolved/the_401k_shuffle.py 
+  434  clear
+  435   cd /Users/anil/bkft/Class_1_Activities ; /usr/bin/env /usr/bin/python3 /Users/anil/.vscode/extensions/ms-python.python-2021.9.1246542782/pythonFiles/lib/python/debugpy/launcher 51780 -- /Users/anil/bkft/Class_1_Activities/03_The_401k_Shuffle/Unsolved/the_401k_shuffle.py 
+  436   cd /Users/anil/bkft/Class_1_Activities ; /usr/bin/env /usr/bin/python3 /Users/anil/.vscode/extensions/ms-python.python-2021.9.1246542782/pythonFiles/lib/python/debugpy/launcher 51791 -- /Users/anil/bkft/Class_1_Activities/03_The_401k_Shuffle/Unsolved/the_401k_shuffle.py 
+  437   cd /Users/anil/bkft/Class_1_Activities ; /usr/bin/env /usr/bin/python3 /Users/anil/.vscode/extensions/ms-python.python-2021.9.1246542782/pythonFiles/lib/python/debugpy/launcher 51798 -- /Users/anil/bkft/Class_1_Activities/03_The_401k_Shuffle/Unsolved/the_401k_shuffle.py 
+  438   cd /Users/anil/bkft/Class_1_Activities ; /usr/bin/env /usr/bin/python3 /Users/anil/.vscode/extensions/ms-python.python-2021.9.1246542782/pythonFiles/lib/python/debugpy/launcher 51807 -- /Users/anil/bkft/Class_1_Activities/03_The_401k_Shuffle/Unsolved/the_401k_shuffle.py 
+  439   cd /Users/anil/bkft/Class_1_Activities ; /usr/bin/env /usr/bin/python3 /Users/anil/.vscode/extensions/ms-python.python-2021.9.1246542782/pythonFiles/lib/python/debugpy/launcher 51844 -- /Users/anil/bkft/Class_1_Activities/03_The_401k_Shuffle/Unsolved/the_401k_shuffle.py 
+  440   cd /Users/anil/bkft/Class_1_Activities ; /usr/bin/env /usr/bin/python3 /Users/anil/.vscode/extensions/ms-python.python-2021.9.1246542782/pythonFiles/lib/python/debugpy/launcher 51855 -- /Users/anil/bkft/Class_1_Activities/03_The_401k_Shuffle/Unsolved/the_401k_shuffle.py 
+  441   cd /Users/anil/bkft/Class_1_Activities ; /usr/bin/env /usr/bin/python3 /Users/anil/.vscode/extensions/ms-python.python-2021.9.1246542782/pythonFiles/lib/python/debugpy/launcher 51873 -- /Users/anil/bkft/Class_1_Activities/03_The_401k_Shuffle/Unsolved/the_401k_shuffle.py 
+  442   cd /Users/anil/bkft/Class_1_Activities ; /usr/bin/env /usr/bin/python3 /Users/anil/.vscode/extensions/ms-python.python-2021.9.1246542782/pythonFiles/lib/python/debugpy/launcher 51883 -- /Users/anil/bkft/Class_1_Activities/03_The_401k_Shuffle/Unsolved/the_401k_shuffle.py 
+  443   cd /Users/anil/bkft/Class_1_Activities ; /usr/bin/env /usr/bin/python3 /Users/anil/.vscode/extensions/ms-python.python-2021.9.1246542782/pythonFiles/lib/python/debugpy/launcher 51895 -- /Users/anil/bkft/Class_1_Activities/03_The_401k_Shuffle/Unsolved/the_401k_shuffle.py 
+  444   cd /Users/anil/bkft/Class_1_Activities ; /usr/bin/env /usr/bin/python3 /Users/anil/.vscode/extensions/ms-python.python-2021.9.1246542782/pythonFiles/lib/python/debugpy/launcher 51908 -- /Users/anil/bkft/Class_1_Activities/03_The_401k_Shuffle/Unsolved/the_401k_shuffle.py 
+  445   cd /Users/anil/bkft/Class_1_Activities ; /usr/bin/env /usr/bin/python3 /Users/anil/.vscode/extensions/ms-python.python-2021.9.1246542782/pythonFiles/lib/python/debugpy/launcher 51921 -- /Users/anil/bkft/Class_1_Activities/03_The_401k_Shuffle/Unsolved/the_401k_shuffle.py 
+  446  clear
+  447   cd /Users/anil/bkft/Class_1_Activities ; /usr/bin/env /usr/bin/python3 /Users/anil/.vscode/extensions/ms-python.python-2021.9.1246542782/pythonFiles/lib/python/debugpy/launcher 51929 -- /Users/anil/bkft/Class_1_Activities/03_The_401k_Shuffle/Unsolved/the_401k_shuffle.py 
+  448   cd /Users/anil/bkft/Class_1_Activities ; /usr/bin/env /usr/bin/python3 /Users/anil/.vscode/extensions/ms-python.python-2021.9.1246542782/pythonFiles/lib/python/debugpy/launcher 51936 -- /Users/anil/bkft/Class_1_Activities/03_The_401k_Shuffle/Unsolved/the_401k_shuffle.py 
+  449   cd /Users/anil/bkft/Class_1_Activities ; /usr/bin/env /usr/bin/python3 /Users/anil/.vscode/extensions/ms-python.python-2021.9.1246542782/pythonFiles/lib/python/debugpy/launcher 51941 -- /Users/anil/bkft/Class_1_Activities/03_The_401k_Shuffle/Unsolved/the_401k_shuffle.py 
+  450   cd /Users/anil/bkft/Class_1_Activities ; /usr/bin/env /usr/bin/python3 /Users/anil/.vscode/extensions/ms-python.python-2021.9.1246542782/pythonFiles/lib/python/debugpy/launcher 51950 -- /Users/anil/bkft/Class_1_Activities/03_The_401k_Shuffle/Unsolved/the_401k_shuffle.py 
+  451   cd /Users/anil/bkft/Class_1_Activities ; /usr/bin/env /usr/bin/python3 /Users/anil/.vscode/extensions/ms-python.python-2021.9.1246542782/pythonFiles/lib/python/debugpy/launcher 51964 -- /Users/anil/bkft/Class_1_Activities/03_The_401k_Shuffle/Unsolved/the_401k_shuffle.py 
+  452   cd /Users/anil/bkft/Class_1_Activities ; /usr/bin/env /usr/bin/python3 /Users/anil/.vscode/extensions/ms-python.python-2021.9.1246542782/pythonFiles/lib/python/debugpy/launcher 51970 -- /Users/anil/bkft/Class_1_Activities/03_The_401k_Shuffle/Unsolved/the_401k_shuffle.py 
+  453   /usr/bin/env /usr/bin/python3 /Users/anil/.vscode/extensions/ms-python.python-2021.9.1246542782/pythonFiles/lib/python/debugpy/launcher 61047 -- /Users/anil/at/python-getting-started/alphavantage.py 
+  454   cd /Users/anil/at/python-getting-started ; /usr/bin/env /usr/bin/python3 /Users/anil/.vscode/extensions/ms-python.python-2021.9.1246542782/pythonFiles/lib/python/debugpy/launcher 61059 -- /Users/anil/at/python-getting-started/alphavantage.py 
+  455   cd /Users/anil/at/python-getting-started ; /usr/bin/env /usr/bin/python3 /Users/anil/.vscode/extensions/ms-python.python-2021.9.1246542782/pythonFiles/lib/python/debugpy/launcher 61069 -- /Users/anil/at/python-getting-started/alphavantage.py 
+  456   cd /Users/anil/at/python-getting-started ; /usr/bin/env /usr/bin/python3 /Users/anil/.vscode/extensions/ms-python.python-2021.9.1246542782/pythonFiles/lib/python/debugpy/launcher 61081 -- /Users/anil/at/python-getting-started/alphavantage.py 
+  457  len(data)
+  458  type(data)
+  459  data
+  460   cd /Users/anil/at/python-getting-started ; /usr/bin/env /usr/bin/python3 /Users/anil/.vscode/extensions/ms-python.python-2021.9.1246542782/pythonFiles/lib/python/debugpy/launcher 61095 -- /Users/anil/at/python-getting-started/alphavantage.py 
+  461   cd /Users/anil/at/python-getting-started ; /usr/bin/env /usr/bin/python3 /Users/anil/.vscode/extensions/ms-python.python-2021.9.1246542782/pythonFiles/lib/python/debugpy/launcher 63201 -- /Users/anil/at/python-getting-started/importer.py 
+  462   cd /Users/anil/at/python-getting-started ; /usr/bin/env /usr/bin/python3 /Users/anil/.vscode/extensions/ms-python.python-2021.9.1246542782/pythonFiles/lib/python/debugpy/launcher 63208 -- /Users/anil/at/python-getting-started/importer.py 
+  463   cd /Users/anil/at/python-getting-started ; /usr/bin/env /usr/bin/python3 /Users/anil/.vscode/extensions/ms-python.python-2021.9.1246542782/pythonFiles/lib/python/debugpy/launcher 63237 -- /Users/anil/at/python-getting-started/importer.py 
+  464   cd /Users/anil/at/python-getting-started ; /usr/bin/env /usr/bin/python3 /Users/anil/.vscode/extensions/ms-python.python-2021.9.1246542782/pythonFiles/lib/python/debugpy/launcher 63245 -- /Users/anil/at/python-getting-started/importer.py 
+  465   cd /Users/anil/at/python-getting-started ; /usr/bin/env /usr/bin/python3 /Users/anil/.vscode/extensions/ms-python.python-2021.9.1246542782/pythonFiles/lib/python/debugpy/launcher 63256 -- /Users/anil/at/python-getting-started/importer.py 
+  466   cd /Users/anil/at/python-getting-started ; /usr/bin/env /usr/bin/python3 /Users/anil/.vscode/extensions/ms-python.python-2021.9.1246542782/pythonFiles/lib/python/debugpy/launcher 63329 -- /Users/anil/at/python-getting-started/importer.py 
+  467  conda deactivate
+  468  clear
+  469  pwd
+  470  python
+  471  python3
+  472   /usr/bin/env /usr/bin/python3 /Users/anil/.vscode/extensions/ms-python.python-2021.9.1246542782/pythonFiles/lib/python/debugpy/launcher 60694 -- /Users/anil/GitHub_Upload/GitHub_Upload/loan_analyzer.py 
+  473   cd /Users/anil/GitHub_Upload ; /usr/bin/env /usr/bin/python3 /Users/anil/.vscode/extensions/ms-python.python-2021.9.1246542782/pythonFiles/lib/python/debugpy/launcher 60711 -- /Users/anil/GitHub_Upload/GitHub_Upload/loan_analyzer.py 
+  474   cd /Users/anil/GitHub_Upload ; /usr/bin/env /usr/bin/python3 /Users/anil/.vscode/extensions/ms-python.python-2021.9.1246542782/pythonFiles/lib/python/debugpy/launcher 60746 -- /Users/anil/GitHub_Upload/GitHub_Upload/loan_analyzer.py 
+  475   cd /Users/anil/GitHub_Upload ; /usr/bin/env /usr/bin/python3 /Users/anil/.vscode/extensions/ms-python.python-2021.9.1246542782/pythonFiles/lib/python/debugpy/launcher 60753 -- /Users/anil/GitHub_Upload/GitHub_Upload/loan_analyzer.py 
+  476   cd /Users/anil/GitHub_Upload ; /usr/bin/env /usr/bin/python3 /Users/anil/.vscode/extensions/ms-python.python-2021.9.1246542782/pythonFiles/lib/python/debugpy/launcher 60776 -- /Users/anil/GitHub_Upload/GitHub_Upload/loan_analyzer.py 
+  477   cd /Users/anil/GitHub_Upload ; /usr/bin/env /usr/bin/python3 /Users/anil/.vscode/extensions/ms-python.python-2021.9.1246542782/pythonFiles/lib/python/debugpy/launcher 60788 -- /Users/anil/GitHub_Upload/GitHub_Upload/loan_analyzer.py 
+  478   cd /Users/anil/GitHub_Upload ; /usr/bin/env /usr/bin/python3 /Users/anil/.vscode/extensions/ms-python.python-2021.9.1246542782/pythonFiles/lib/python/debugpy/launcher 60803 -- /Users/anil/GitHub_Upload/GitHub_Upload/loan_analyzer.py 
+  479   cd /Users/anil/GitHub_Upload ; /usr/bin/env /usr/bin/python3 /Users/anil/.vscode/extensions/ms-python.python-2021.9.1246542782/pythonFiles/lib/python/debugpy/launcher 60852 -- /Users/anil/GitHub_Upload/GitHub_Upload/loan_analyzer.py 
+  480   cd /Users/anil/GitHub_Upload ; /usr/bin/env /usr/bin/python3 /Users/anil/.vscode/extensions/ms-python.python-2021.9.1246542782/pythonFiles/lib/python/debugpy/launcher 60861 -- /Users/anil/GitHub_Upload/GitHub_Upload/loan_analyzer.py 
+  481   cd /Users/anil/GitHub_Upload ; /usr/bin/env /usr/bin/python3 /Users/anil/.vscode/extensions/ms-python.python-2021.9.1246542782/pythonFiles/lib/python/debugpy/launcher 60886 -- /Users/anil/GitHub_Upload/GitHub_Upload/loan_analyzer.py 
+  482   cd /Users/anil/GitHub_Upload ; /usr/bin/env /usr/bin/python3 /Users/anil/.vscode/extensions/ms-python.python-2021.9.1246542782/pythonFiles/lib/python/debugpy/launcher 60915 -- /Users/anil/GitHub_Upload/GitHub_Upload/loan_analyzer.py 
+  483   cd /Users/anil/GitHub_Upload ; /usr/bin/env /usr/bin/python3 /Users/anil/.vscode/extensions/ms-python.python-2021.9.1246542782/pythonFiles/lib/python/debugpy/launcher 60939 -- /Users/anil/GitHub_Upload/GitHub_Upload/loan_analyzer.py 
+  484   cd /Users/anil/GitHub_Upload ; /usr/bin/env /usr/bin/python3 /Users/anil/.vscode/extensions/ms-python.python-2021.9.1246542782/pythonFiles/lib/python/debugpy/launcher 60949 -- /Users/anil/GitHub_Upload/GitHub_Upload/loan_analyzer.py 
+  485   cd /Users/anil/GitHub_Upload ; /usr/bin/env /usr/bin/python3 /Users/anil/.vscode/extensions/ms-python.python-2021.9.1246542782/pythonFiles/lib/python/debugpy/launcher 61030 -- /Users/anil/GitHub_Upload/GitHub_Upload/loan_analyzer.py 
+  486   cd /Users/anil/GitHub_Upload ; /usr/bin/env /usr/bin/python3 /Users/anil/.vscode/extensions/ms-python.python-2021.9.1246542782/pythonFiles/lib/python/debugpy/launcher 61055 -- /Users/anil/GitHub_Upload/GitHub_Upload/loan_analyzer.py 
+  487   cd /Users/anil/GitHub_Upload ; /usr/bin/env /usr/bin/python3 /Users/anil/.vscode/extensions/ms-python.python-2021.9.1246542782/pythonFiles/lib/python/debugpy/launcher 61062 -- /Users/anil/GitHub_Upload/GitHub_Upload/loan_analyzer.py 
+  488   cd /Users/anil/GitHub_Upload ; /usr/bin/env /usr/bin/python3 /Users/anil/.vscode/extensions/ms-python.python-2021.9.1246542782/pythonFiles/lib/python/debugpy/launcher 61074 -- /Users/anil/GitHub_Upload/GitHub_Upload/loan_analyzer.py 
+  489   cd /Users/anil/GitHub_Upload ; /usr/bin/env /usr/bin/python3 /Users/anil/.vscode/extensions/ms-python.python-2021.9.1246542782/pythonFiles/lib/python/debugpy/launcher 61087 -- /Users/anil/GitHub_Upload/GitHub_Upload/loan_analyzer.py 
+  490   cd /Users/anil/GitHub_Upload ; /usr/bin/env /usr/bin/python3 /Users/anil/.vscode/extensions/ms-python.python-2021.9.1246542782/pythonFiles/lib/python/debugpy/launcher 61097 -- /Users/anil/GitHub_Upload/GitHub_Upload/loan_analyzer.py 
+  491   cd /Users/anil/GitHub_Upload ; /usr/bin/env /usr/bin/python3 /Users/anil/.vscode/extensions/ms-python.python-2021.9.1246542782/pythonFiles/lib/python/debugpy/launcher 61104 -- /Users/anil/GitHub_Upload/GitHub_Upload/loan_analyzer.py 
+  492   cd /Users/anil/GitHub_Upload ; /usr/bin/env /usr/bin/python3 /Users/anil/.vscode/extensions/ms-python.python-2021.9.1246542782/pythonFiles/lib/python/debugpy/launcher 61111 -- /Users/anil/GitHub_Upload/GitHub_Upload/loan_analyzer.py 
+  493   cd /Users/anil/GitHub_Upload ; /usr/bin/env /usr/bin/python3 /Users/anil/.vscode/extensions/ms-python.python-2021.9.1246542782/pythonFiles/lib/python/debugpy/launcher 61121 -- /Users/anil/GitHub_Upload/GitHub_Upload/loan_analyzer.py 
+  494   cd /Users/anil/GitHub_Upload ; /usr/bin/env /usr/bin/python3 /Users/anil/.vscode/extensions/ms-python.python-2021.9.1246542782/pythonFiles/lib/python/debugpy/launcher 61130 -- /Users/anil/GitHub_Upload/GitHub_Upload/loan_analyzer.py 
+  495   cd /Users/anil/GitHub_Upload ; /usr/bin/env /usr/bin/python3 /Users/anil/.vscode/extensions/ms-python.python-2021.9.1246542782/pythonFiles/lib/python/debugpy/launcher 61177 -- /Users/anil/GitHub_Upload/GitHub_Upload/loan_analyzer.py 
+  496  pwd
+  497  ls
+  498  git status
+  499  git diff --staged
+  500   cd /Users/anil/GitHub_Upload ; /usr/bin/env /usr/bin/python3 /Users/anil/.vscode/extensions/ms-python.python-2021.9.1246542782/pythonFiles/lib/python/debugpy/launcher 61232 -- /Users/anil/GitHub_Upload/GitHub_Upload/loan_analyzer.py 
+  501   cd /Users/anil/GitHub_Upload ; /usr/bin/env /usr/bin/python3 /Users/anil/.vscode/extensions/ms-python.python-2021.9.1246542782/pythonFiles/lib/python/debugpy/launcher 61246 -- /Users/anil/GitHub_Upload/GitHub_Upload/loan_analyzer.py 
+  502   cd /Users/anil/GitHub_Upload ; /usr/bin/env /usr/bin/python3 /Users/anil/.vscode/extensions/ms-python.python-2021.9.1246542782/pythonFiles/lib/python/debugpy/launcher 61262 -- /Users/anil/GitHub_Upload/GitHub_Upload/loan_analyzer.py 
+  503  git status
+  504  pwd
+  505  git pwd
+  506  cd ../
+  507  owd
+  508  pwd
+  509  cd ucb
+  510  ls
+  511  cd homework
+  512  ls
+  513  mkdir test
+  514  cd test
+  515  git clone git@github.com:AnilVinnakota/GitHub_Upload.git
+  516  ls
+  517  cd GitHub_Upload
+  518  ls
+  519  cd GitHub_Upload
+  520  ls
+  521  python3 loan_analyzer.py
+  522  ls
+  523  vim inexpensive_loans.csv
+  524   /usr/bin/env /usr/bin/python3 /Users/anil/.vscode/extensions/ms-python.python-2021.9.1246542782/pythonFiles/lib/python/debugpy/launcher 61448 -- /Users/anil/ucb/Scratchpad/01_Loan_Qualifier_Financial_Calculations/Unsolved/app.py 
+  525  pwd
+  526  ls
+  527  cd Solved
+  528  cd ../Unsolved
+  529  ls
+  530  cd ../
+  531   cd /Users/anil/ucb/Scratchpad/01_Loan_Qualifier_Financial_Calculations ; /usr/bin/env /usr/bin/python3 /Users/anil/.vscode/extensions/ms-python.python-2021.9.1246542782/pythonFiles/lib/python/debugpy/launcher 61456 -- /Users/anil/ucb/Scratchpad/01_Loan_Qualifier_Financial_Calculations/Unsolved/app.py 
+  532   /usr/bin/env /usr/bin/python3 /Users/anil/.vscode/extensions/ms-python.python-2021.9.1246542782/pythonFiles/lib/python/debugpy/launcher 61518 -- /Users/anil/ucb/Scratchpad/02_Loan_Qualifier_Filtering_Data/Unsolved/app.py 
+  533   cd /Users/anil/ucb/Scratchpad ; /usr/bin/env /usr/bin/python3 /Users/anil/.vscode/extensions/ms-python.python-2021.9.1246542782/pythonFiles/lib/python/debugpy/launcher 61525 -- /Users/anil/ucb/Scratchpad/02_Loan_Qualifier_Filtering_Data/Unsolved/app.py 
+  534   cd /Users/anil/ucb/Scratchpad ; /usr/bin/env /usr/bin/python3 /Users/anil/.vscode/extensions/ms-python.python-2021.9.1246542782/pythonFiles/lib/python/debugpy/launcher 61534 -- /Users/anil/ucb/Scratchpad/02_Loan_Qualifier_Filtering_Data/Unsolved/app.py 
+  535   cd /Users/anil/ucb/Scratchpad ; /usr/bin/env /usr/bin/python3 /Users/anil/.vscode/extensions/ms-python.python-2021.9.1246542782/pythonFiles/lib/python/debugpy/launcher 61547 -- /Users/anil/ucb/Scratchpad/02_Loan_Qualifier_Filtering_Data/Unsolved/app.py 
+  536   cd /Users/anil/ucb/Scratchpad ; /usr/bin/env /usr/bin/python3 /Users/anil/.vscode/extensions/ms-python.python-2021.9.1246542782/pythonFiles/lib/python/debugpy/launcher 61599 -- /Users/anil/ucb/Scratchpad/02_Loan_Qualifier_Filtering_Data/Unsolved/app.py 
+  537   cd /Users/anil/ucb/Scratchpad ; /usr/bin/env /usr/bin/python3 /Users/anil/.vscode/extensions/ms-python.python-2021.9.1246542782/pythonFiles/lib/python/debugpy/launcher 61607 -- /Users/anil/ucb/Scratchpad/02_Loan_Qualifier_Filtering_Data/Unsolved/app.py 
+  538   cd /Users/anil/ucb/Scratchpad ; /usr/bin/env /usr/bin/python3 /Users/anil/.vscode/extensions/ms-python.python-2021.9.1246542782/pythonFiles/lib/python/debugpy/launcher 61613 -- /Users/anil/ucb/Scratchpad/02_Loan_Qualifier_Filtering_Data/Unsolved/app.py 
+  539   cd /Users/anil/ucb/Scratchpad ; /usr/bin/env /usr/bin/python3 /Users/anil/.vscode/extensions/ms-python.python-2021.9.1246542782/pythonFiles/lib/python/debugpy/launcher 61619 -- /Users/anil/ucb/Scratchpad/02_Loan_Qualifier_Filtering_Data/Unsolved/app.py 
+  540   cd /Users/anil/ucb/Scratchpad ; /usr/bin/env /usr/bin/python3 /Users/anil/.vscode/extensions/ms-python.python-2021.9.1246542782/pythonFiles/lib/python/debugpy/launcher 61628 -- /Users/anil/ucb/Scratchpad/02_Loan_Qualifier_Filtering_Data/Unsolved/app.py 
+  541   cd /Users/anil/ucb/Scratchpad ; /usr/bin/env /usr/bin/python3 /Users/anil/.vscode/extensions/ms-python.python-2021.9.1246542782/pythonFiles/lib/python/debugpy/launcher 61636 -- /Users/anil/ucb/Scratchpad/02_Loan_Qualifier_Filtering_Data/Unsolved/app.py 
+  542   cd /Users/anil/ucb/Scratchpad ; /usr/bin/env /usr/bin/python3 /Users/anil/.vscode/extensions/ms-python.python-2021.9.1246542782/pythonFiles/lib/python/debugpy/launcher 61645 -- /Users/anil/ucb/Scratchpad/02_Loan_Qualifier_Filtering_Data/Unsolved/app.py 
+  543   cd /Users/anil/ucb/Scratchpad ; /usr/bin/env /usr/bin/python3 /Users/anil/.vscode/extensions/ms-python.python-2021.9.1246542782/pythonFiles/lib/python/debugpy/launcher 61655 -- /Users/anil/ucb/Scratchpad/02_Loan_Qualifier_Filtering_Data/Unsolved/app.py 
+  544   cd /Users/anil/ucb/Scratchpad ; /usr/bin/env /usr/bin/python3 /Users/anil/.vscode/extensions/ms-python.python-2021.9.1246542782/pythonFiles/lib/python/debugpy/launcher 61669 -- /Users/anil/ucb/Scratchpad/02_Loan_Qualifier_Filtering_Data/Unsolved/app.py 
+  545   cd /Users/anil/ucb/Scratchpad ; /usr/bin/env /usr/bin/python3 /Users/anil/.vscode/extensions/ms-python.python-2021.9.1246542782/pythonFiles/lib/python/debugpy/launcher 61676 -- /Users/anil/ucb/Scratchpad/02_Loan_Qualifier_Filtering_Data/Unsolved/app.py 
+  546  mail
+  547  mkdir bkft
+  548  ls
+  549  ls Downloads
+  550  ls Downloads -lrt
+  551  ls -lrt
+  552  ls -lrt Desktop
+  553  ls -lrt Downloads
+  554  cp Downloads/Class_* bkft
+  555  cp -r Downloads/Class_* bkft
+  556  cd bkft
+  557  ls
+  558  sl -rlt
+  559  ls -lrt
+  560  cd Class_
+  561  cd Class_1_Activities
+  562  l
+  563  ls -lrt
+  564  pwd
+  565  ls -lrt
+  566  cd 01_Ins_Variables
+  567  ls -lrt
+  568  cat README.md
+  569  python
+  570  conda activate dev
+  571  python
+  572  clear
+  573  brew install heroku/brew/heroku
+  574  heroku login
+  575  cd
+  576  pwd
+  577  mkdir at
+  578  cd at
+  579  git clone https://github.com/heroku/python-getting-started.git
+  580  ls
+  581  cd python-getting-started
+  582  ls
+  583  heroku create
+  584  ls
+  585  git status
+  586  git push heroku main
+  587  heroku ps:scale web=1
+  588  heroku open
+  589  heroku logs --tail
+  590  ls
+  591  vim Procfile
+  592  heroku ps\n
+  593  heroku ls
+  594  ls
+  595  vim README.md
+  596  heroku ps -a damp-lowlands-90385
+  597  heroku ps:scale web=0
+  598  heroku ps:scale web=1\n
+  599  clear
+  600  pip install -r requirements.txt
+  601  pip install git+https://github.com/manahl/arctic.git\n
+  602  python
+  603  pip install fire\n
+  604  pip install questionary\n
+  605  exit
+  606  code .
+  607  pwd
+  608  cd ..
+  609  pwd
+  610  ls
+  611  cd ..
+  612  ls
+  613  clear
+  614  pwd
+  615  ls
+  616  cd Class_
+  617  cd Class_1_Activities
+  618  ls
+  619  code .
+  620  ls
+  621  cd ..
+  622  ls
+  623  unzip Class_2_Activities.zip
+  624  cd Class_2_Activities
+  625  ls
+  626  cd ..
+  627  cd Class_1_Activities
+  628  ls
+  629  cd 03_Ins_Lists
+  630  ls -lrt
+  631  clear
+  632  cd
+  633  pwd
+  634  pwd
+  635  ls
+  636  cd Desktop
+  637  ls
+  638  cp Nifty.csv ../at
+  639  cd at
+  640  pwd
+  641  cd ../at
+  642  ls
+  643  mv Nifty.csv python-getting-started
+  644  cd python-getting-started
+  645  ls
+  646  pwd
+  647  vim Nifty.csv
+  648  python
+  649  cd
+  650  conda deactivate
+  651  pwd
+  652  mkdir at
+  653  cd at
+  654  mkdir sandbox
+  655  cd sandbox
+  656  pwd
+  657  clear
+  658  code  .
+  659  code  .
+  660  pip install alpha_vantage
+  661  pip3 install alpha_vantage
+  662  sudo pip3 install alpha_vantage
+  663  sudo pip3 install nsetools
+  664  code .
+  665  sudo pip3 install nsepy
+  666  pwd
+  667  git status
+  668  cd
+  669  pwd
+  670  cd -
+  671  pwd
+  672  clear
+  673  ls
+  674  vim importer.py
+  675  pwd
+  676  cd
+  677  cd .ssh
+  678  cat id_rsa.pub
+  679  cd
+  680  ls
+  681  mkdir ucb
+  682  cd ucb
+  683  git clone git@ucb.bootcampcontent.com:UCB-Coding-Bootcamp/ucb-virt-fin-pt-09-2021-u-b.git
+  684  pwd
+  685  mkdir homework
+  686  cd homework
+  687  git init
+  688  pwd
+  689  mkdir GitHub_Upload
+  690  ls
+  691  mv loan_analyzer.py
+  692  mv loan_analyzer.py GitHub_Upload
+  693  conda create workbench
+  694  conda help
+  695  conda env
+  696  pwd
+  697  ls
+  698  code .
+  699   /usr/bin/env /usr/bin/python3 /Users/anil/.vscode/extensions/ms-python.python-2021.9.1246542782/pythonFiles/lib/python/debugpy/launcher 52563 -- /Users/anil/at/heroku/Momentum-Trading-Example/test.py 
+  700   cd /Users/anil/at/heroku ; /usr/bin/env /usr/bin/python3 /Users/anil/.vscode/extensions/ms-python.python-2021.9.1246542782/pythonFiles/lib/python/debugpy/launcher 52578 -- /Users/anil/at/heroku/Momentum-Trading-Example/test.py 
+  701   cd /Users/anil/at/heroku ; /usr/bin/env /usr/bin/python3 /Users/anil/.vscode/extensions/ms-python.python-2021.9.1246542782/pythonFiles/lib/python/debugpy/launcher 52686 -- /Users/anil/at/heroku/Momentum-Trading-Example/test.py 
+  702   cd /Users/anil/at/heroku ; /usr/bin/env /usr/bin/python3 /Users/anil/.vscode/extensions/ms-python.python-2021.9.1246542782/pythonFiles/lib/python/debugpy/launcher 52781 -- /Users/anil/at/heroku/Momentum-Trading-Example/test.py 
+  703   cd /Users/anil/at/heroku ; /usr/bin/env /usr/bin/python3 /Users/anil/.vscode/extensions/ms-python.python-2021.9.1246542782/pythonFiles/lib/python/debugpy/launcher 53662 -- /Users/anil/at/heroku/Momentum-Trading-Example/test.py 
+  704   cd /Users/anil/at/heroku ; /usr/bin/env /usr/bin/python3 /Users/anil/.vscode/extensions/ms-python.python-2021.9.1246542782/pythonFiles/lib/python/debugpy/launcher 54105 -- /Users/anil/at/heroku/Momentum-Trading-Example/test.py 
+  705  clear
+  706   cd /Users/anil/at/heroku ; /usr/bin/env /usr/bin/python3 /Users/anil/.vscode/extensions/ms-python.python-2021.9.1246542782/pythonFiles/lib/python/debugpy/launcher 54124 -- /Users/anil/at/heroku/Momentum-Trading-Example/test.py 
+  707  tickers
+  708   cd /Users/anil/at/heroku ; /usr/bin/env /usr/bin/python3 /Users/anil/.vscode/extensions/ms-python.python-2021.9.1246542782/pythonFiles/lib/python/debugpy/launcher 54144 -- /Users/anil/at/heroku/Momentum-Trading-Example/test.py 
+  709   cd /Users/anil/at/heroku ; /usr/bin/env /usr/bin/python3 /Users/anil/.vscode/extensions/ms-python.python-2021.9.1246542782/pythonFiles/lib/python/debugpy/launcher 54153 -- /Users/anil/at/heroku/Momentum-Trading-Example/test.py 
+  710   /usr/bin/env /usr/bin/python3 /Users/anil/.vscode/extensions/ms-python.python-2021.9.1246542782/pythonFiles/lib/python/debugpy/launcher 54750 -- /Users/anil/at/scratch/app.py 
+  711   cd /Users/anil/at/scratch ; /usr/bin/env /usr/bin/python3 /Users/anil/.vscode/extensions/ms-python.python-2021.9.1246542782/pythonFiles/lib/python/debugpy/launcher 55131 -- /Users/anil/at/scratch/app.py 
+  712   cd /Users/anil/at/scratch ; /usr/bin/env /usr/bin/python3 /Users/anil/.vscode/extensions/ms-python.python-2021.9.1246542782/pythonFiles/lib/python/debugpy/launcher 55137 -- /Users/anil/at/scratch/app.py 
+  713   cd /Users/anil/at/scratch ; /usr/bin/env /usr/bin/python3 /Users/anil/.vscode/extensions/ms-python.python-2021.9.1246542782/pythonFiles/lib/python/debugpy/launcher 55155 -- /Users/anil/at/scratch/app.py 
+  714   cd /Users/anil/at/scratch ; /usr/bin/env /usr/bin/python3 /Users/anil/.vscode/extensions/ms-python.python-2021.9.1246542782/pythonFiles/lib/python/debugpy/launcher 55251 -- /Users/anil/at/scratch/app.py 
+  715   cd /Users/anil/at/scratch ; /usr/bin/env /usr/bin/python3 /Users/anil/.vscode/extensions/ms-python.python-2021.9.1246542782/pythonFiles/lib/python/debugpy/launcher 55271 -- /Users/anil/at/scratch/app.py 
+  716   cd /Users/anil/at/scratch ; /usr/bin/env /usr/bin/python3 /Users/anil/.vscode/extensions/ms-python.python-2021.9.1246542782/pythonFiles/lib/python/debugpy/launcher 55293 -- /Users/anil/at/scratch/app.py 
+  717   cd /Users/anil/at/scratch ; /usr/bin/env /usr/bin/python3 /Users/anil/.vscode/extensions/ms-python.python-2021.9.1246542782/pythonFiles/lib/python/debugpy/launcher 55310 -- /Users/anil/at/scratch/app.py 
+  718   cd /Users/anil/at/scratch ; /usr/bin/env /usr/bin/python3 /Users/anil/.vscode/extensions/ms-python.python-2021.9.1246542782/pythonFiles/lib/python/debugpy/launcher 55365 -- /Users/anil/at/scratch/test.py 
+  719   cd /Users/anil/at/scratch ; /usr/bin/env /usr/bin/python3 /Users/anil/.vscode/extensions/ms-python.python-2021.9.1246542782/pythonFiles/lib/python/debugpy/launcher 55512 -- /Users/anil/at/scratch/app.py 
+  720   cd /Users/anil/at/scratch ; /usr/bin/env /usr/bin/python3 /Users/anil/.vscode/extensions/ms-python.python-2021.9.1246542782/pythonFiles/lib/python/debugpy/launcher 55522 -- /Users/anil/at/scratch/app.py 
+  721   cd /Users/anil/at/scratch ; /usr/bin/env /usr/bin/python3 /Users/anil/.vscode/extensions/ms-python.python-2021.9.1246542782/pythonFiles/lib/python/debugpy/launcher 55664 -- /Users/anil/at/scratch/test.py 
+  722   cd /Users/anil/at/scratch ; /usr/bin/env /usr/bin/python3 /Users/anil/.vscode/extensions/ms-python.python-2021.9.1246542782/pythonFiles/lib/python/debugpy/launcher 55675 -- /Users/anil/at/scratch/test.py 
+  723   cd /Users/anil/at/scratch ; /usr/bin/env /usr/bin/python3 /Users/anil/.vscode/extensions/ms-python.python-2021.9.1246542782/pythonFiles/lib/python/debugpy/launcher 55872 -- /Users/anil/at/scratch/test.py 
+  724   cd /Users/anil/at/scratch ; /usr/bin/env /usr/bin/python3 /Users/anil/.vscode/extensions/ms-python.python-2021.9.1246542782/pythonFiles/lib/python/debugpy/launcher 55888 -- /Users/anil/at/scratch/test.py 
+  725   cd /Users/anil/at/scratch ; /usr/bin/env /usr/bin/python3 /Users/anil/.vscode/extensions/ms-python.python-2021.9.1246542782/pythonFiles/lib/python/debugpy/launcher 55896 -- /Users/anil/at/scratch/test.py 
+  726   cd /Users/anil/at/scratch ; /usr/bin/env /usr/bin/python3 /Users/anil/.vscode/extensions/ms-python.python-2021.9.1246542782/pythonFiles/lib/python/debugpy/launcher 55906 -- /Users/anil/at/scratch/test.py 
+  727   cd /Users/anil/at/scratch ; /usr/bin/env /usr/bin/python3 /Users/anil/.vscode/extensions/ms-python.python-2021.9.1246542782/pythonFiles/lib/python/debugpy/launcher 55917 -- /Users/anil/at/scratch/test.py 
+  728   cd /Users/anil/at/scratch ; /usr/bin/env /usr/bin/python3 /Users/anil/.vscode/extensions/ms-python.python-2021.9.1246542782/pythonFiles/lib/python/debugpy/launcher 56044 -- /Users/anil/at/scratch/test.py 
+  729   cd /Users/anil/at/scratch ; /usr/bin/env /usr/bin/python3 /Users/anil/.vscode/extensions/ms-python.python-2021.9.1246542782/pythonFiles/lib/python/debugpy/launcher 56060 -- /Users/anil/at/scratch/test.py 
+  730   cd /Users/anil/at/scratch ; /usr/bin/env /usr/bin/python3 /Users/anil/.vscode/extensions/ms-python.python-2021.9.1246542782/pythonFiles/lib/python/debugpy/launcher 56072 -- /Users/anil/at/scratch/test.py 
+  731   cd /Users/anil/at/scratch ; /usr/bin/env /usr/bin/python3 /Users/anil/.vscode/extensions/ms-python.python-2021.9.1246542782/pythonFiles/lib/python/debugpy/launcher 56083 -- /Users/anil/at/scratch/test.py 
+  732   cd /Users/anil/at/scratch ; /usr/bin/env /usr/bin/python3 /Users/anil/.vscode/extensions/ms-python.python-2021.9.1246542782/pythonFiles/lib/python/debugpy/launcher 56094 -- /Users/anil/at/scratch/test.py 
+  733   cd /Users/anil/at/scratch ; /usr/bin/env /usr/bin/python3 /Users/anil/.vscode/extensions/ms-python.python-2021.9.1246542782/pythonFiles/lib/python/debugpy/launcher 56150 -- /Users/anil/at/scratch/test.py 
+  734   cd /Users/anil/at/scratch ; /usr/bin/env /usr/bin/python3 /Users/anil/.vscode/extensions/ms-python.python-2021.9.1246542782/pythonFiles/lib/python/debugpy/launcher 56160 -- /Users/anil/at/scratch/test.py 
+  735   cd /Users/anil/at/scratch ; /usr/bin/env /usr/bin/python3 /Users/anil/.vscode/extensions/ms-python.python-2021.9.1246542782/pythonFiles/lib/python/debugpy/launcher 56201 -- /Users/anil/at/scratch/test.py 
+  736   cd /Users/anil/at/scratch ; /usr/bin/env /usr/bin/python3 /Users/anil/.vscode/extensions/ms-python.python-2021.9.1246542782/pythonFiles/lib/python/debugpy/launcher 56233 -- /Users/anil/at/scratch/test.py 
+  737   cd /Users/anil/at/scratch ; /usr/bin/env /usr/bin/python3 /Users/anil/.vscode/extensions/ms-python.python-2021.9.1246542782/pythonFiles/lib/python/debugpy/launcher 56254 -- /Users/anil/at/scratch/test.py 
+  738   cd /Users/anil/at/scratch ; /usr/bin/env /usr/bin/python3 /Users/anil/.vscode/extensions/ms-python.python-2021.9.1246542782/pythonFiles/lib/python/debugpy/launcher 56286 -- /Users/anil/at/scratch/test.py 
+  739   cd /Users/anil/at/scratch ; /usr/bin/env /usr/bin/python3 /Users/anil/.vscode/extensions/ms-python.python-2021.9.1246542782/pythonFiles/lib/python/debugpy/launcher 56298 -- /Users/anil/at/scratch/test.py 
+  740   cd /Users/anil/at/scratch ; /usr/bin/env /usr/bin/python3 /Users/anil/.vscode/extensions/ms-python.python-2021.9.1246542782/pythonFiles/lib/python/debugpy/launcher 56311 -- /Users/anil/at/scratch/test.py 
+  741   cd /Users/anil/at/scratch ; /usr/bin/env /usr/bin/python3 /Users/anil/.vscode/extensions/ms-python.python-2021.9.1246542782/pythonFiles/lib/python/debugpy/launcher 56328 -- /Users/anil/at/scratch/test.py 
+  742   cd /Users/anil/at/scratch ; /usr/bin/env /usr/bin/python3 /Users/anil/.vscode/extensions/ms-python.python-2021.9.1246542782/pythonFiles/lib/python/debugpy/launcher 56447 -- /Users/anil/at/scratch/test.py 
+  743   cd /Users/anil/at/scratch ; /usr/bin/env /usr/bin/python3 /Users/anil/.vscode/extensions/ms-python.python-2021.9.1246542782/pythonFiles/lib/python/debugpy/launcher 56454 -- /Users/anil/at/scratch/test.py 
+  744   cd /Users/anil/at/scratch ; /usr/bin/env /usr/bin/python3 /Users/anil/.vscode/extensions/ms-python.python-2021.9.1246542782/pythonFiles/lib/python/debugpy/launcher 56465 -- /Users/anil/at/scratch/test.py 
+  745   cd /Users/anil/at/scratch ; /usr/bin/env /usr/bin/python3 /Users/anil/.vscode/extensions/ms-python.python-2021.9.1246542782/pythonFiles/lib/python/debugpy/launcher 56494 -- /Users/anil/at/scratch/test.py 
+  746   cd /Users/anil/at/scratch ; /usr/bin/env /usr/bin/python3 /Users/anil/.vscode/extensions/ms-python.python-2021.9.1246542782/pythonFiles/lib/python/debugpy/launcher 56560 -- /Users/anil/at/scratch/test.py 
+  747   cd /Users/anil/at/scratch ; /usr/bin/env /usr/bin/python3 /Users/anil/.vscode/extensions/ms-python.python-2021.9.1246542782/pythonFiles/lib/python/debugpy/launcher 56568 -- /Users/anil/at/scratch/test.py 
+  748   cd /Users/anil/at/scratch ; /usr/bin/env /usr/bin/python3 /Users/anil/.vscode/extensions/ms-python.python-2021.9.1246542782/pythonFiles/lib/python/debugpy/launcher 56588 -- /Users/anil/at/scratch/test.py 
+  749  clear
+  750   cd /Users/anil/at/scratch ; /usr/bin/env /usr/bin/python3 /Users/anil/.vscode/extensions/ms-python.python-2021.9.1246542782/pythonFiles/lib/python/debugpy/launcher 56619 -- /Users/anil/at/scratch/test.py 
+  751   cd /Users/anil/at/scratch ; /usr/bin/env /usr/bin/python3 /Users/anil/.vscode/extensions/ms-python.python-2021.9.1246542782/pythonFiles/lib/python/debugpy/launcher 56634 -- /Users/anil/at/scratch/test.py 
+  752   cd /Users/anil/at/scratch ; /usr/bin/env /usr/bin/python3 /Users/anil/.vscode/extensions/ms-python.python-2021.9.1246542782/pythonFiles/lib/python/debugpy/launcher 56913 -- /Users/anil/at/scratch/app.py 
+  753   cd /Users/anil/at/scratch ; /usr/bin/env /usr/bin/python3 /Users/anil/.vscode/extensions/ms-python.python-2021.9.1246542782/pythonFiles/lib/python/debugpy/launcher 58047 -- /Users/anil/at/scratch/app.py 
+  754   cd /Users/anil/at/scratch ; /usr/bin/env /usr/bin/python3 /Users/anil/.vscode/extensions/ms-python.python-2021.9.1246542782/pythonFiles/lib/python/debugpy/launcher 58054 -- /Users/anil/at/scratch/app.py 
+  755   cd /Users/anil/at/scratch ; /usr/bin/env /usr/bin/python3 /Users/anil/.vscode/extensions/ms-python.python-2021.9.1246542782/pythonFiles/lib/python/debugpy/launcher 58116 -- /Users/anil/at/scratch/test.py 
+  756   cd /Users/anil/at/scratch ; /usr/bin/env /usr/bin/python3 /Users/anil/.vscode/extensions/ms-python.python-2021.9.1246542782/pythonFiles/lib/python/debugpy/launcher 58136 -- /Users/anil/at/scratch/test.py 
+  757   cd /Users/anil/at/scratch ; /usr/bin/env /usr/bin/python3 /Users/anil/.vscode/extensions/ms-python.python-2021.9.1246542782/pythonFiles/lib/python/debugpy/launcher 58166 -- /Users/anil/at/scratch/test.py 
+  758   cd /Users/anil/at/scratch ; /usr/bin/env /usr/bin/python3 /Users/anil/.vscode/extensions/ms-python.python-2021.9.1246542782/pythonFiles/lib/python/debugpy/launcher 58205 -- /Users/anil/at/scratch/test.py 
+  759   cd /Users/anil/at/scratch ; /usr/bin/env /usr/bin/python3 /Users/anil/.vscode/extensions/ms-python.python-2021.9.1246542782/pythonFiles/lib/python/debugpy/launcher 61000 -- /Users/anil/at/scratch/test.py 
+  760   cd /Users/anil/at/scratch ; /usr/bin/env /usr/bin/python3 /Users/anil/.vscode/extensions/ms-python.python-2021.9.1246542782/pythonFiles/lib/python/debugpy/launcher 61042 -- /Users/anil/at/scratch/test.py 
+  761   cd /Users/anil/at/scratch ; /usr/bin/env /usr/bin/python3 /Users/anil/.vscode/extensions/ms-python.python-2021.9.1246542782/pythonFiles/lib/python/debugpy/launcher 61053 -- /Users/anil/at/scratch/test.py 
+  762   cd /Users/anil/at/scratch ; /usr/bin/env /usr/bin/python3 /Users/anil/.vscode/extensions/ms-python.python-2021.9.1246542782/pythonFiles/lib/python/debugpy/launcher 61097 -- /Users/anil/at/scratch/test.py 
+  763   cd /Users/anil/at/scratch ; /usr/bin/env /usr/bin/python3 /Users/anil/.vscode/extensions/ms-python.python-2021.9.1246542782/pythonFiles/lib/python/debugpy/launcher 61111 -- /Users/anil/at/scratch/test.py 
+  764   cd /Users/anil/at/scratch ; /usr/bin/env /usr/bin/python3 /Users/anil/.vscode/extensions/ms-python.python-2021.9.1246542782/pythonFiles/lib/python/debugpy/launcher 62022 -- /Users/anil/at/scratch/app.py 
+  765   cd /Users/anil/at/scratch ; /usr/bin/env /usr/bin/python3 /Users/anil/.vscode/extensions/ms-python.python-2021.9.1246542782/pythonFiles/lib/python/debugpy/launcher 62459 -- /Users/anil/at/scratch/app.py 
+  766   cd /Users/anil/at/scratch ; /usr/bin/env /usr/bin/python3 /Users/anil/.vscode/extensions/ms-python.python-2021.9.1246542782/pythonFiles/lib/python/debugpy/launcher 62518 -- /Users/anil/at/scratch/app.py 
+  767   cd /Users/anil/at/scratch ; /usr/bin/env /usr/bin/python3 /Users/anil/.vscode/extensions/ms-python.python-2021.9.1246542782/pythonFiles/lib/python/debugpy/launcher 62998 -- /Users/anil/at/scratch/test.py 
+  768   cd /Users/anil/at/scratch ; /usr/bin/env /usr/bin/python3 /Users/anil/.vscode/extensions/ms-python.python-2021.9.1246542782/pythonFiles/lib/python/debugpy/launcher 63005 -- /Users/anil/at/scratch/test.py 
+  769  clear
+  770   cd /Users/anil/at/scratch ; /usr/bin/env /usr/bin/python3 /Users/anil/.vscode/extensions/ms-python.python-2021.9.1246542782/pythonFiles/lib/python/debugpy/launcher 63015 -- /Users/anil/at/scratch/test.py 
+  771   cd /Users/anil/at/scratch ; /usr/bin/env /usr/bin/python3 /Users/anil/.vscode/extensions/ms-python.python-2021.9.1246542782/pythonFiles/lib/python/debugpy/launcher 63022 -- /Users/anil/at/scratch/test.py 
+  772   cd /Users/anil/at/scratch ; /usr/bin/env /usr/bin/python3 /Users/anil/.vscode/extensions/ms-python.python-2021.9.1246542782/pythonFiles/lib/python/debugpy/launcher 63087 -- /Users/anil/at/scratch/test.py 
+  773   cd /Users/anil/at/scratch ; /usr/bin/env /usr/bin/python3 /Users/anil/.vscode/extensions/ms-python.python-2021.9.1246542782/pythonFiles/lib/python/debugpy/launcher 63105 -- /Users/anil/at/scratch/test.py 
+  774   cd /Users/anil/at/scratch ; /usr/bin/env /usr/bin/python3 /Users/anil/.vscode/extensions/ms-python.python-2021.9.1246542782/pythonFiles/lib/python/debugpy/launcher 63119 -- /Users/anil/at/scratch/test.py 
+  775   cd /Users/anil/at/scratch ; /usr/bin/env /usr/bin/python3 /Users/anil/.vscode/extensions/ms-python.python-2021.9.1246542782/pythonFiles/lib/python/debugpy/launcher 63193 -- /Users/anil/at/scratch/test.py 
+  776   cd /Users/anil/at/scratch ; /usr/bin/env /usr/bin/python3 /Users/anil/.vscode/extensions/ms-python.python-2021.9.1246542782/pythonFiles/lib/python/debugpy/launcher 63209 -- /Users/anil/at/scratch/test.py 
+  777   cd /Users/anil/at/scratch ; /usr/bin/env /usr/bin/python3 /Users/anil/.vscode/extensions/ms-python.python-2021.9.1246542782/pythonFiles/lib/python/debugpy/launcher 50190 -- /Users/anil/at/scratch/test.py 
+  778   cd /Users/anil/at/scratch ; /usr/bin/env /usr/bin/python3 /Users/anil/.vscode/extensions/ms-python.python-2021.9.1246542782/pythonFiles/lib/python/debugpy/launcher 50201 -- /Users/anil/at/scratch/test.py 
+  779   cd /Users/anil/at/scratch ; /usr/bin/env /usr/bin/python3 /Users/anil/.vscode/extensions/ms-python.python-2021.9.1246542782/pythonFiles/lib/python/debugpy/launcher 50213 -- /Users/anil/at/scratch/test.py 
+  780   cd /Users/anil/at/scratch ; /usr/bin/env /usr/bin/python3 /Users/anil/.vscode/extensions/ms-python.python-2021.9.1246542782/pythonFiles/lib/python/debugpy/launcher 50223 -- /Users/anil/at/scratch/test.py 
+  781   cd /Users/anil/at/scratch ; /usr/bin/env /usr/bin/python3 /Users/anil/.vscode/extensions/ms-python.python-2021.9.1246542782/pythonFiles/lib/python/debugpy/launcher 50237 -- /Users/anil/at/scratch/test.py 
+  782   cd /Users/anil/at/scratch ; /usr/bin/env /usr/bin/python3 /Users/anil/.vscode/extensions/ms-python.python-2021.9.1246542782/pythonFiles/lib/python/debugpy/launcher 50249 -- /Users/anil/at/scratch/test.py 
+  783   cd /Users/anil/at/scratch ; /usr/bin/env /usr/bin/python3 /Users/anil/.vscode/extensions/ms-python.python-2021.9.1246542782/pythonFiles/lib/python/debugpy/launcher 50283 -- /Users/anil/at/scratch/test.py 
+  784   cd /Users/anil/at/scratch ; /usr/bin/env /usr/bin/python3 /Users/anil/.vscode/extensions/ms-python.python-2021.9.1246542782/pythonFiles/lib/python/debugpy/launcher 50293 -- /Users/anil/at/scratch/test.py 
+  785   cd /Users/anil/at/scratch ; /usr/bin/env /usr/bin/python3 /Users/anil/.vscode/extensions/ms-python.python-2021.9.1246542782/pythonFiles/lib/python/debugpy/launcher 50315 -- /Users/anil/at/scratch/test.py 
+  786   cd /Users/anil/at/scratch ; /usr/bin/env /usr/bin/python3 /Users/anil/.vscode/extensions/ms-python.python-2021.9.1246542782/pythonFiles/lib/python/debugpy/launcher 50326 -- /Users/anil/at/scratch/test.py 
+  787   cd /Users/anil/at/scratch ; /usr/bin/env /usr/bin/python3 /Users/anil/.vscode/extensions/ms-python.python-2021.9.1246542782/pythonFiles/lib/python/debugpy/launcher 50356 -- /Users/anil/at/scratch/app.py 
+  788   cd /Users/anil/at/scratch ; /usr/bin/env /usr/bin/python3 /Users/anil/.vscode/extensions/ms-python.python-2021.9.1246542782/pythonFiles/lib/python/debugpy/launcher 50395 -- /Users/anil/at/scratch/app.py 
+  789   cd /Users/anil/at/scratch ; /usr/bin/env /usr/bin/python3 /Users/anil/.vscode/extensions/ms-python.python-2021.9.1246542782/pythonFiles/lib/python/debugpy/launcher 50413 -- /Users/anil/at/scratch/app.py 
+  790   cd /Users/anil/at/scratch ; /usr/bin/env /usr/bin/python3 /Users/anil/.vscode/extensions/ms-python.python-2021.9.1246542782/pythonFiles/lib/python/debugpy/launcher 53285 -- /Users/anil/at/scratch/app.py 
+  791   cd /Users/anil/at/scratch ; /usr/bin/env /usr/bin/python3 /Users/anil/.vscode/extensions/ms-python.python-2021.9.1246542782/pythonFiles/lib/python/debugpy/launcher 53457 -- /Users/anil/at/scratch/app.py 
+  792   cd /Users/anil/at/scratch ; /usr/bin/env /usr/bin/python3 /Users/anil/.vscode/extensions/ms-python.python-2021.9.1246542782/pythonFiles/lib/python/debugpy/launcher 53739 -- /Users/anil/at/scratch/app.py 
+  793   cd /Users/anil/at/scratch ; /usr/bin/env /usr/bin/python3 /Users/anil/.vscode/extensions/ms-python.python-2021.9.1246542782/pythonFiles/lib/python/debugpy/launcher 56780 -- /Users/anil/at/scratch/test.py 
+  794   cd /Users/anil/at/scratch ; /usr/bin/env /usr/bin/python3 /Users/anil/.vscode/extensions/ms-python.python-2021.9.1246542782/pythonFiles/lib/python/debugpy/launcher 56794 -- /Users/anil/at/scratch/test.py 
+  795   cd /Users/anil/at/scratch ; /usr/bin/env /usr/bin/python3 /Users/anil/.vscode/extensions/ms-python.python-2021.9.1246542782/pythonFiles/lib/python/debugpy/launcher 56821 -- /Users/anil/at/scratch/test.py 
+  796   cd /Users/anil/at/scratch ; /usr/bin/env /usr/bin/python3 /Users/anil/.vscode/extensions/ms-python.python-2021.9.1246542782/pythonFiles/lib/python/debugpy/launcher 56837 -- /Users/anil/at/scratch/test.py 
+  797   cd /Users/anil/at/scratch ; /usr/bin/env /usr/bin/python3 /Users/anil/.vscode/extensions/ms-python.python-2021.9.1246542782/pythonFiles/lib/python/debugpy/launcher 56844 -- /Users/anil/at/scratch/test.py 
+  798   cd /Users/anil/at/scratch ; /usr/bin/env /usr/bin/python3 /Users/anil/.vscode/extensions/ms-python.python-2021.9.1246542782/pythonFiles/lib/python/debugpy/launcher 56881 -- /Users/anil/at/scratch/test.py 
+  799   cd /Users/anil/at/scratch ; /usr/bin/env /usr/bin/python3 /Users/anil/.vscode/extensions/ms-python.python-2021.9.1246542782/pythonFiles/lib/python/debugpy/launcher 56924 -- /Users/anil/at/scratch/test.py 
+  800  /usr/bin/python3 /Users/anil/at/scratch/app.py
+  801  /usr/bin/python3 /Users/anil/at/scratch/app.py
+  802  /usr/bin/python3 /Users/anil/at/scratch/app.py
+  803  /usr/bin/python3 /Users/anil/at/scratch/app.py
+  804  /usr/bin/python3 /Users/anil/at/scratch/app.py
+  805  /usr/bin/python3 /Users/anil/at/scratch/app.py
+  806  /usr/bin/python3 /Users/anil/at/scratch/app.py
+  807  /usr/bin/python3 /Users/anil/at/scratch/app.py
+  808  /usr/bin/python3 /Users/anil/at/scratch/test.py
+  809  /usr/bin/python3 /Users/anil/at/scratch/app.py
+  810  /usr/bin/python3 /Users/anil/at/scratch/app.py
+  811   /usr/bin/env /usr/bin/python3 /Users/anil/.vscode/extensions/ms-python.python-2021.10.1317843341/pythonFiles/lib/python/debugpy/launcher 63072 -- "/Users/anil/Desktop/Starter_Code 2/loan_qualifier_app/app.py" 
+  812  pwd
+  813  pwd
+  814  cd loan_qualifier_app
+  815  git init -b main\n
+  816  gh repo create  loan_qualifier_app
+  817  ls
+  818  git pull --set-upstream origin main\n
+  819  git pull --set-upstream origin main --ff-only\n
+  820  git add . && git commit -m "initial commit" && git push
+  821   cd "/Users/anil/Desktop/Starter_Code 2" ; /usr/bin/env /usr/bin/python3 /Users/anil/.vscode/extensions/ms-python.python-2021.10.1317843341/pythonFiles/lib/python/debugpy/launcher 63230 -- "/Users/anil/Desktop/Starter_Code 2/loan_qualifier_app/app.py" 
+  822  pip install fire
+  823   cd "/Users/anil/Desktop/Starter_Code 2" ; /usr/bin/env /usr/bin/python3 /Users/anil/.vscode/extensions/ms-python.python-2021.10.1317843341/pythonFiles/lib/python/debugpy/launcher 63243 -- "/Users/anil/Desktop/Starter_Code 2/loan_qualifier_app/app.py" 
+  824   /usr/bin/env /usr/bin/python3 /Users/anil/.vscode/extensions/ms-python.python-2021.10.1317843341/pythonFiles/lib/python/debugpy/launcher 63267 -- "/Users/anil/Desktop/Starter_Code 2/loan_qualifier_app/app.py" 
+  825   /usr/bin/env /usr/bin/python3 /Users/anil/.vscode/extensions/ms-python.python-2021.10.1317843341/pythonFiles/lib/python/debugpy/launcher 63277 -- "/Users/anil/Desktop/Starter_Code 2/loan_qualifier_app/app.py" 
+  826   cd "/Users/anil/Desktop/Starter_Code 2" ; /usr/bin/env /usr/bin/python3 /Users/anil/.vscode/extensions/ms-python.python-2021.10.1317843341/pythonFiles/lib/python/debugpy/launcher 63291 -- "/Users/anil/Desktop/Starter_Code 2/loan_qualifier_app/app.py" 
+  827   cd "/Users/anil/Desktop/Starter_Code 2" ; /usr/bin/env /Users/anil/opt/anaconda3/envs/dev/bin/python /Users/anil/.vscode/extensions/ms-python.python-2021.10.1317843341/pythonFiles/lib/python/debugpy/launcher 63318 -- "/Users/anil/Desktop/Starter_Code 2/loan_qualifier_app/app.py" 
+  828   cd "/Users/anil/Desktop/Starter_Code 2" ; /usr/bin/env /Users/anil/opt/anaconda3/envs/dev/bin/python /Users/anil/.vscode/extensions/ms-python.python-2021.10.1317843341/pythonFiles/lib/python/debugpy/launcher 63330 -- "/Users/anil/Desktop/Starter_Code 2/loan_qualifier_app/app.py" 
+  829   cd "/Users/anil/Desktop/Starter_Code 2" ; /usr/bin/env /Users/anil/opt/anaconda3/envs/dev/bin/python /Users/anil/.vscode/extensions/ms-python.python-2021.10.1317843341/pythonFiles/lib/python/debugpy/launcher 63337 -- "/Users/anil/Desktop/Starter_Code 2/loan_qualifier_app/app.py" 
+  830   cd "/Users/anil/Desktop/Starter_Code 2" ; /usr/bin/env /Users/anil/opt/anaconda3/envs/dev/bin/python /Users/anil/.vscode/extensions/ms-python.python-2021.10.1317843341/pythonFiles/lib/python/debugpy/launcher 63354 -- "/Users/anil/Desktop/Starter_Code 2/loan_qualifier_app/app.py" 
+  831   cd "/Users/anil/Desktop/Starter_Code 2" ; /usr/bin/env /Users/anil/opt/anaconda3/envs/dev/bin/python /Users/anil/.vscode/extensions/ms-python.python-2021.10.1317843341/pythonFiles/lib/python/debugpy/launcher 63366 -- "/Users/anil/Desktop/Starter_Code 2/loan_qualifier_app/app.py" 
+  832   cd "/Users/anil/Desktop/Starter_Code 2" ; /usr/bin/env /Users/anil/opt/anaconda3/envs/dev/bin/python /Users/anil/.vscode/extensions/ms-python.python-2021.10.1317843341/pythonFiles/lib/python/debugpy/launcher 63375 -- "/Users/anil/Desktop/Starter_Code 2/loan_qualifier_app/app.py" 
+  833   cd "/Users/anil/Desktop/Starter_Code 2" ; /usr/bin/env /Users/anil/opt/anaconda3/envs/dev/bin/python /Users/anil/.vscode/extensions/ms-python.python-2021.10.1317843341/pythonFiles/lib/python/debugpy/launcher 63375 -- "/Users/anil/Desktop/Starter_Code 2/loan_qualifier_app/app.py" 
+  834   cd "/Users/anil/Desktop/Starter_Code 2" ; /usr/bin/env /Users/anil/opt/anaconda3/envs/dev/bin/python /Users/anil/.vscode/extensions/ms-python.python-2021.10.1317843341/pythonFiles/lib/python/debugpy/launcher 63390 -- "/Users/anil/Desktop/Starter_Code 2/loan_qualifier_app/app.py" 
+  835   cd "/Users/anil/Desktop/Starter_Code 2" ; /usr/bin/env /Users/anil/opt/anaconda3/envs/dev/bin/python /Users/anil/.vscode/extensions/ms-python.python-2021.10.1317843341/pythonFiles/lib/python/debugpy/launcher 63436 -- "/Users/anil/Desktop/Starter_Code 2/loan_qualifier_app/qualifier/utils/fileio.py" 
+  836   cd "/Users/anil/Desktop/Starter_Code 2" ; /usr/bin/env /Users/anil/opt/anaconda3/envs/dev/bin/python /Users/anil/.vscode/extensions/ms-python.python-2021.10.1317843341/pythonFiles/lib/python/debugpy/launcher 63441 -- "/Users/anil/Desktop/Starter_Code 2/loan_qualifier_app/app.py" 
+  837   cd "/Users/anil/Desktop/Starter_Code 2" ; /usr/bin/env /Users/anil/opt/anaconda3/envs/dev/bin/python /Users/anil/.vscode/extensions/ms-python.python-2021.10.1317843341/pythonFiles/lib/python/debugpy/launcher 63483 -- "/Users/anil/Desktop/Starter_Code 2/loan_qualifier_app/app.py" 
+  838  history 50 > terminal_history.txt
+  839  git status
+  840  pwd
+  841  cd loan_qualifier_app
+  842  git status
+  843  git add .
+  844  git commit -m "Assignment 2"
+  845  git push
+  846  git status
+  847  git add README.md
+  848  git commit -m "Change format"
+  849  git push
+  850  git status
+  851  git diff
+  852  git add README.md
+  853  git commit -m "Multiline"
+  854  git push
+  855  git status
+  856  git add README.md
+  857  git commit -m "Spaces"
+  858  git push
+  859  pwd
+  860  ls
