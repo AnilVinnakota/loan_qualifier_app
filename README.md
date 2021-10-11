@@ -1,12 +1,12 @@
 # Project Title
 
-Just after the title, introduce your project by describing attractively what the project is about and what is the main problem that inspires you to create this project or what is the main contribution for the potential user of your project.
+***loan finder** Application to find qualifying loan Lenders matching user criteria.
 
 ---
 
 ## Technologies
 
-Describe the technologies required to use your project such as programming languages, libraries, frameworks, and operating systems. Be sure to include the specific versions of any critical dependencies that you have used in the stable version of your project.
+python
 
 ---
 
@@ -17,8 +17,10 @@ In this section, you should include detailed installation notes containing code 
 ---
 
 ## Usage
-
-This section should include screenshots, code blocks, or animations explaining how to use your project.
+![ScreenShot]('data/ScreenShot.png')
+User need to provide the daily *rate-sheet* that consists of Lender qualifying criteria.
+Application requests user data and finds Lenders with matching criteria.
+Prompts user to save the qualifying Lender list.
 
 ---
 
